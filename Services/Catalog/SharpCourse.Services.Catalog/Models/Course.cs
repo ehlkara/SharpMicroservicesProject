@@ -17,6 +17,8 @@ namespace SharpCourse.Services.Catalog.Models
         public string Picture { get; set; }
         [BsonRepresentation(BsonType.DateTime)]
         public DateTime CreatedTime { get; set; }
+        [BsonRepresentation(BsonType.DateTime)]
+        public DateTime UpdatedTime { get; set; }
         public Feature Feature { get; set; }
         [BsonRepresentation(BsonType.ObjectId)]
         public string CategoryId { get; set; }

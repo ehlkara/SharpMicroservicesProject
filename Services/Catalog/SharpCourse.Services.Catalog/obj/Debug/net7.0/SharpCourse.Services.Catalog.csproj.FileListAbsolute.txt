@@ -31,3 +31,16 @@
 /Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/obj/Debug/net7.0/SharpCourse.Services.Catalog.pdb
 /Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/obj/Debug/net7.0/SharpCourse.Services.Catalog.genruntimeconfig.cache
 /Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/obj/Debug/net7.0/ref/SharpCourse.Services.Catalog.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/AutoMapper.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/DnsClient.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/MongoDB.Bson.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/MongoDB.Driver.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/SharpCompress.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Snappier.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/ZstdSharp.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
