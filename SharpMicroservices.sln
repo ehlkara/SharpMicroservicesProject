@@ -14,6 +14,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Ports.txt = Ports.txt
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{268928C9-F760-4AFE-BBF8-8F960991FCBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharp.Shared", "Shared\Sharp.Shared\Sharp.Shared.csproj", "{10A29D51-DE1A-49F9-8F13-A1ED791FFFD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +28,10 @@ Global
 		{CBED3C80-32CE-4D89-B76D-1441A8DC8753}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBED3C80-32CE-4D89-B76D-1441A8DC8753}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBED3C80-32CE-4D89-B76D-1441A8DC8753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A29D51-DE1A-49F9-8F13-A1ED791FFFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A29D51-DE1A-49F9-8F13-A1ED791FFFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A29D51-DE1A-49F9-8F13-A1ED791FFFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A29D51-DE1A-49F9-8F13-A1ED791FFFD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -34,5 +42,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{9E435C9E-07AD-4807-922B-4FCB28A15AFB} = {6910FD23-89E2-4709-9867-8DB284A487AD}
 		{CBED3C80-32CE-4D89-B76D-1441A8DC8753} = {9E435C9E-07AD-4807-922B-4FCB28A15AFB}
+		{10A29D51-DE1A-49F9-8F13-A1ED791FFFD2} = {268928C9-F760-4AFE-BBF8-8F960991FCBB}
 	EndGlobalSection
 EndGlobal
