@@ -1,5 +1,6 @@
 ﻿using System;
 using AutoMapper;
+using MongoDB.Bson;
 using MongoDB.Driver;
 using Sharp.Shared.Dtos;
 using SharpCourse.Services.Catalog.Dtos;

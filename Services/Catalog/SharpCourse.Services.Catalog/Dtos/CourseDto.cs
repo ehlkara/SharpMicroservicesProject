@@ -1,9 +1,15 @@
-﻿using SharpCourse.Services.Catalog.Models;
+﻿using MongoDB.Bson;
+using SharpCourse.Services.Catalog.Models;
 
 namespace SharpCourse.Services.Catalog.Dtos
 {
     public class CourseDto
 	{
+        public CourseDto()
+        {
+            this.Id = ObjectId.GenerateNewId().ToString();
+        }
+
         public string Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }

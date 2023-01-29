@@ -20,6 +20,7 @@ namespace SharpCourse.Services.Catalog.Controllers
             _courseService = courseService;
         }
 
+        [HttpGet]
         public async Task<IActionResult> GetAll()
         {
             var response = await _courseService.GetAllAsync();
@@ -36,7 +37,9 @@ namespace SharpCourse.Services.Catalog.Controllers
             return CreateActionResultInstance(response);
         }
 
+
         //api/course/GetAllByUserId/4
+        [HttpGet]
         [Route("api/[controller]/GetAllByUserId/{userId}")]
         public async Task<IActionResult> GetAllByUserId(string userId)
         {
