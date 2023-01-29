@@ -1,4 +1,6 @@
-﻿using SharpCourse.Services.Catalog.Mapping;
+﻿using Microsoft.Extensions.Options;
+using SharpCourse.Services.Catalog.Mapping;
+using SharpCourse.Services.Catalog.Settings;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +12,14 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddAutoMapper(typeof(GeneralMapping));
+
+builder.Services.Configure<DatabaseSettings>(builder.Configuration.GetSection("DatabaseSettings"));
+
+builder.Services.AddSingleton<IDatabaseSettings>(sp =>
+{
+    return sp.GetRequiredService<IOptions<DatabaseSettings>>().Value;
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

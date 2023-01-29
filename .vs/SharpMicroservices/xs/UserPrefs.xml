@@ -1,17 +1,35 @@
 ﻿<Properties StartupConfiguration="{CBED3C80-32CE-4D89-B76D-1441A8DC8753}|http">
   <MonoDevelop.Ide.ItemProperties.Services.Catalog.SharpCourse.Services.Catalog PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Shared.Sharp.Shared FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/Catalog/SharpCourse.Services.Catalog/Program.cs">
+    <Files>
+      <File FileName="Shared/Sharp.Shared/Dtos/ResponseDto.cs" Line="31" Column="66" />
+      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Dtos/CategoryDto.cs" Line="7" Column="41" />
+      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Models/Category.cs" Line="11" Column="1" />
+      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Dtos/FeatureDto.cs" Line="6" Column="42" />
+      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Models/Feature.cs" Line="6" Column="3" />
+      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Dtos/CourseDto.cs" Line="7" Column="1" />
+      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Models/Course.cs" Line="20" Column="48" />
+      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Dtos/CourseCreateDto.cs" Line="10" Column="23" />
+      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Dtos/CourseUpdateDto.cs" Line="11" Column="44" />
+      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Program.cs" Line="17" Column="2" />
+      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Mapping/GeneralMapping.cs" Line="15" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SharpMicroservices" expanded="True">
-            <Node name="Serivces" expanded="True">
+            <Node name="Services" expanded="True">
               <Node name="Catalog" expanded="True">
-                <Node name="SharpCourse.Services.Catalog" selected="True" />
+                <Node name="SharpCourse.Services.Catalog" expanded="True">
+                  <Node name="Dtos" expanded="True" />
+                  <Node name="Mapping" expanded="True" />
+                  <Node name="Models" expanded="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
