@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Options;
 using SharpCourse.Services.Catalog.Mapping;
+using SharpCourse.Services.Catalog.Services;
 using SharpCourse.Services.Catalog.Settings;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +11,9 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<ICourseService, CourseService>();
 
 builder.Services.AddAutoMapper(typeof(GeneralMapping));
 

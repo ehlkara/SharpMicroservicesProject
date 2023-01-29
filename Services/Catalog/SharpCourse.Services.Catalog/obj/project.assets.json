@@ -481,6 +481,16 @@
         "runtime": {
           "lib/net6.0/ZstdSharp.dll": {}
         }
+      },
+      "Sharp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Sharp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sharp.Shared.dll": {}
+        }
       }
     }
   },
@@ -1454,6 +1464,11 @@
         "zstdsharp.port.0.6.2.nupkg.sha512",
         "zstdsharp.port.nuspec"
       ]
+    },
+    "Sharp.Shared/1.0.0": {
+      "type": "project",
+      "path": "../../../Shared/Sharp.Shared/Sharp.Shared.csproj",
+      "msbuildProject": "../../../Shared/Sharp.Shared/Sharp.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1461,6 +1476,7 @@
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.2",
       "MongoDB.Driver >= 2.19.0",
+      "Sharp.Shared >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -1488,7 +1504,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
+              "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
