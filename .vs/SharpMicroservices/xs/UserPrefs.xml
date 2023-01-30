@@ -1,39 +1,31 @@
 ﻿<Properties StartupConfiguration="{CBED3C80-32CE-4D89-B76D-1441A8DC8753}|http">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Services/Catalog/SharpCourse.Services.Catalog/Services/CategoryService.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IdentityServer/Sharp.IdentityServer/Program.cs">
     <Files>
-      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Controllers/CoursesController.cs" Line="43" Column="60" />
-      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Controllers/CategoriesController.cs" Line="47" Column="1" />
-      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Models/Category.cs" Line="10" Column="6" />
-      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Services/CategoryService.cs" Line="28" Column="27" />
-      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Services/CourseService.cs" Line="31" Column="41" />
-      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Mapping/GeneralMapping.cs" Line="14" Column="50" />
-      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Dtos/CategoryDto.cs" Line="11" Column="10" />
-      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Models/Course.cs" Line="1" Column="1" />
-      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Dtos/CourseDto.cs" Line="9" Column="10" />
+      <File FileName="IdentityServer/Sharp.IdentityServer/appsettings.json" Line="3" Column="98" />
+      <File FileName="IdentityServer/Sharp.IdentityServer/Startup.cs" Line="32" Column="1" />
+      <File FileName="IdentityServer/Sharp.IdentityServer/Program.cs" Line="43" Column="14" />
+      <File FileName="IdentityServer/Sharp.IdentityServer/Models/ApplicationUser.cs" Line="10" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SharpMicroservices" expanded="True">
-            <Node name="Services" expanded="True">
-              <Node name="Catalog" expanded="True">
-                <Node name="SharpCourse.Services.Catalog" expanded="True">
-                  <Node name="Controllers" expanded="True" />
-                  <Node name="Dtos" expanded="True" />
-                  <Node name="Mapping" expanded="True" />
-                  <Node name="Models" expanded="True" />
-                  <Node name="Services" expanded="True" />
-                </Node>
+            <Node name="IdentityServer" expanded="True">
+              <Node name="Sharp.IdentityServer" expanded="True" selected="True">
+                <Node name="Dependencies" expanded="True" />
+                <Node name="Data" expanded="True" />
+                <Node name="Models" expanded="True" />
               </Node>
             </Node>
-            <Node name="Shared" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Services.Catalog.SharpCourse.Services.Catalog PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
