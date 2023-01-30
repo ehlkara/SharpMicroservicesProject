@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{CBED3C80-32CE-4D89-B76D-1441A8DC8753}|http">
   <MonoDevelop.Ide.Workbench ActiveDocument="IdentityServer/Sharp.IdentityServer/Program.cs">
     <Files>
-      <File FileName="IdentityServer/Sharp.IdentityServer/appsettings.json" Line="3" Column="98" />
-      <File FileName="IdentityServer/Sharp.IdentityServer/Startup.cs" Line="32" Column="1" />
-      <File FileName="IdentityServer/Sharp.IdentityServer/Program.cs" Line="43" Column="14" />
-      <File FileName="IdentityServer/Sharp.IdentityServer/Models/ApplicationUser.cs" Line="10" Column="1" />
+      <File FileName="IdentityServer/Sharp.IdentityServer/appsettings.json" />
+      <File FileName="IdentityServer/Sharp.IdentityServer/Startup.cs" />
+      <File FileName="IdentityServer/Sharp.IdentityServer/Program.cs" Line="35" Column="41" />
+      <File FileName="IdentityServer/Sharp.IdentityServer/Models/ApplicationUser.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
