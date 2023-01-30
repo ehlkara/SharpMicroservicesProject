@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Sharp.IdentityServer
+build_property.ProjectDir = /Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/
