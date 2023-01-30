@@ -1,9 +1,13 @@
 ﻿<Properties StartupConfiguration="{CBED3C80-32CE-4D89-B76D-1441A8DC8753}|http">
-  <MonoDevelop.Ide.Workbench ActiveDocument="IdentityServer/Sharp.IdentityServer/Program.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IdentityServer/Sharp.IdentityServer/appsettings.json">
     <Files>
-      <File FileName="IdentityServer/Sharp.IdentityServer/appsettings.json" />
+      <File FileName="IdentityServer/Sharp.IdentityServer/appsettings.json" Line="5" Column="2" />
       <File FileName="IdentityServer/Sharp.IdentityServer/Startup.cs" />
-      <File FileName="IdentityServer/Sharp.IdentityServer/Program.cs" Line="35" Column="41" />
+      <File FileName="IdentityServer/Sharp.IdentityServer/Program.cs" Line="65" Column="18" />
       <File FileName="IdentityServer/Sharp.IdentityServer/Models/ApplicationUser.cs" />
     </Files>
     <Pads>
@@ -11,10 +15,11 @@
         <State name="__root__">
           <Node name="SharpMicroservices" expanded="True">
             <Node name="IdentityServer" expanded="True">
-              <Node name="Sharp.IdentityServer" expanded="True" selected="True">
+              <Node name="Sharp.IdentityServer" expanded="True">
                 <Node name="Dependencies" expanded="True" />
                 <Node name="Data" expanded="True" />
                 <Node name="Models" expanded="True" />
+                <Node name="appsettings.json" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -23,10 +28,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Services.Catalog.SharpCourse.Services.Catalog PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

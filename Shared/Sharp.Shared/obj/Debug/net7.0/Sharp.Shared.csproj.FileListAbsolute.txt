@@ -10,3 +10,15 @@
 /Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/obj/Debug/net7.0/refint/Sharp.Shared.dll
 /Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/obj/Debug/net7.0/Sharp.Shared.pdb
 /Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/obj/Debug/net7.0/ref/Sharp.Shared.dll
+/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/bin/Debug/net7.0/Sharp.Shared.deps.json
+/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/bin/Debug/net7.0/Sharp.Shared.dll
+/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/bin/Debug/net7.0/Sharp.Shared.pdb
+/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/obj/Debug/net7.0/Sharp.Shared.csproj.AssemblyReference.cache
+/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/obj/Debug/net7.0/Sharp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/obj/Debug/net7.0/Sharp.Shared.AssemblyInfoInputs.cache
+/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/obj/Debug/net7.0/Sharp.Shared.AssemblyInfo.cs
+/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/obj/Debug/net7.0/Sharp.Shared.csproj.CoreCompileInputs.cache
+/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/obj/Debug/net7.0/Sharp.Shared.dll
+/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/obj/Debug/net7.0/refint/Sharp.Shared.dll
+/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/obj/Debug/net7.0/Sharp.Shared.pdb
+/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/obj/Debug/net7.0/ref/Sharp.Shared.dll

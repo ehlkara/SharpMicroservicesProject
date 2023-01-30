@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uT39seG8dYEYOcUNOIvmwgWllCcpYegj30+SUYk1p+R/b3rt4dejL0u0H392r931MWgpCJrkhXHNp6MuxJZUlA==",
+  "dgSpecHash": "nSsUP41KdoQu6tlc/UIJcpzOTcUdC7/fcb4XN/G5Er/tjgDgagLt13l8cmmhOcB0yFfGVQ1o8z9B187R4YegbQ==",
   "success": true,
-  "projectFilePath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/SharpCourse.Services.Catalog.csproj",
+  "projectFilePath": "/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/SharpCourse.Services.Catalog.csproj",
   "expectedPackageFiles": [
     "/Users/ehlkara/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

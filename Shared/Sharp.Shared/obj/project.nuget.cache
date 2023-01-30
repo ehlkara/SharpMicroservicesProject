@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PUrR6HYKTG7KzC1x2wIP3Mhd+T2v+05KX7ujNSUxM91r4VfPM6HOuhCs6BRPIkhC28b1s7ujbLRErQoL4Jz3Xw==",
+  "dgSpecHash": "Dw2lNHFn3BOR7iSjH2uF2xlZLl3ZaDVQi9yhIIODzGy/ClFnYCGtTPJELVKlllNSDGB4INvfSKx1MN1JjRsqsg==",
   "success": true,
-  "projectFilePath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj",
+  "projectFilePath": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
