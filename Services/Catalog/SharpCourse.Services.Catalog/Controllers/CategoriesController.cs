@@ -10,6 +10,7 @@ using SharpCourse.Services.Catalog.Services;
 
 namespace SharpCourse.Services.Catalog.Controllers
 {
+
     [Route("api/[controller]")]
     [ApiController]
     public class CategoriesController : CustomBaseController

@@ -274,6 +274,7 @@
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/DnsClient.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Humanizer.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
@@ -296,6 +297,11 @@
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.OpenApi.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
@@ -332,6 +338,7 @@
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/System.Composition.TypedParts.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/System.Security.Permissions.dll
