@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "G6FoYm8pQJAYXz6bIFaXwtdTK13nj0ZMxhMeq16JXBE=",
+  "Hash": "v4W8PW8XEBEjhFkz1nwFuux16iPdEsGGsGmqgpTGW2A=",
   "Source": "Sharp.Services.PhotoStock",
   "BasePath": "_content/Sharp.Services.PhotoStock",
   "Mode": "Default",
@@ -15,5 +15,23 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/f123b117-5b02-4565-a35c-4cd33637a634.png",
+      "SourceId": "Sharp.Services.PhotoStock",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
+      "BasePath": "_content/Sharp.Services.PhotoStock",
+      "RelativePath": "photos/f123b117-5b02-4565-a35c-4cd33637a634.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/photos/f123b117-5b02-4565-a35c-4cd33637a634.png"
+    }
+  ]
 }
