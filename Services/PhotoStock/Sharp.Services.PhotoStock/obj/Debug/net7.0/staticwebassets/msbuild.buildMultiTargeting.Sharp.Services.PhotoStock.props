@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Sharp.Services.PhotoStock.props" />
+</Project>

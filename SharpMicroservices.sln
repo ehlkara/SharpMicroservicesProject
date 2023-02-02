@@ -22,6 +22,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityServer", "IdentityS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharp.IdentityServer", "IdentityServer\Sharp.IdentityServer\Sharp.IdentityServer.csproj", "{782E39CF-AF19-40F2-83D7-D3753C26CBC1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PhotoStock", "PhotoStock", "{00E53D43-D675-4A57-885B-131458B8705E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpCourse.Services.PhotoStock", "Services\PhotoStock\Sharp.Services.PhotoStock\SharpCourse.Services.PhotoStock.csproj", "{35CB3865-4212-4517-A06C-6AC22FB3E8A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,6 +44,10 @@ Global
 		{782E39CF-AF19-40F2-83D7-D3753C26CBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{782E39CF-AF19-40F2-83D7-D3753C26CBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{782E39CF-AF19-40F2-83D7-D3753C26CBC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35CB3865-4212-4517-A06C-6AC22FB3E8A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CB3865-4212-4517-A06C-6AC22FB3E8A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CB3865-4212-4517-A06C-6AC22FB3E8A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CB3865-4212-4517-A06C-6AC22FB3E8A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,5 +60,7 @@ Global
 		{CBED3C80-32CE-4D89-B76D-1441A8DC8753} = {9E435C9E-07AD-4807-922B-4FCB28A15AFB}
 		{10A29D51-DE1A-49F9-8F13-A1ED791FFFD2} = {268928C9-F760-4AFE-BBF8-8F960991FCBB}
 		{782E39CF-AF19-40F2-83D7-D3753C26CBC1} = {D6CE2A6E-6DC9-4B00-9A3E-73C070082EA1}
+		{00E53D43-D675-4A57-885B-131458B8705E} = {6910FD23-89E2-4709-9867-8DB284A487AD}
+		{35CB3865-4212-4517-A06C-6AC22FB3E8A0} = {00E53D43-D675-4A57-885B-131458B8705E}
 	EndGlobalSection
 EndGlobal

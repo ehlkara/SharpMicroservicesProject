@@ -1,15 +1,20 @@
-﻿<Properties StartupConfiguration="{782E39CF-AF19-40F2-83D7-D3753C26CBC1}|SelfHost">
+﻿<Properties StartupConfiguration="{35CB3865-4212-4517-A06C-6AC22FB3E8A0}|https">
+  <MonoDevelop.Ide.ItemProperties.Services.PhotoStock.SharpCourse.Services.PhotoStock FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.IdentityServer.Sharp.IdentityServer PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{782E39CF-AF19-40F2-83D7-D3753C26CBC1}" ItemName="Sharp.IdentityServer" ConfigurationId="SelfHost" />
+        <StartupItem ItemId="{CBED3C80-32CE-4D89-B76D-1441A8DC8753}" ItemName="SharpCourse.Services.Catalog" ConfigurationId="http" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
   <MonoDevelop.Ide.Workbench ActiveDocument="IdentityServer/Sharp.IdentityServer/Config.cs">
     <Files>
-      <File FileName="IdentityServer/Sharp.IdentityServer/Controllers/UserController.cs" />
-      <File FileName="IdentityServer/Sharp.IdentityServer/Config.cs" Line="36" Column="29" />
+      <File FileName="IdentityServer/Sharp.IdentityServer/Config.cs" Line="55" Column="167" />
+      <File FileName="IdentityServer/Sharp.IdentityServer/Properties/launchSettings.json" Line="5" Column="1" />
+      <File FileName="IdentityServer/Sharp.IdentityServer/Program.cs" Line="67" Column="47" />
+      <File FileName="IdentityServer/Sharp.IdentityServer/Controllers/UserController.cs" Line="54" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,13 +23,13 @@
             <Node name="IdentityServer" expanded="True">
               <Node name="Sharp.IdentityServer" expanded="True">
                 <Node name="Controllers" expanded="True" />
+                <Node name="Properties" expanded="True" />
+                <Node name="Config.cs" selected="True" />
               </Node>
             </Node>
             <Node name="Services" expanded="True">
               <Node name="Catalog" expanded="True">
-                <Node name="SharpCourse.Services.Catalog" expanded="True">
-                  <Node name="Dependencies" expanded="True" />
-                </Node>
+                <Node name="SharpCourse.Services.Catalog" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -32,5 +37,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Services.Catalog.SharpCourse.Services.Catalog PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.IdentityServer.Sharp.IdentityServer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>

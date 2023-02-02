@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "G6FoYm8pQJAYXz6bIFaXwtdTK13nj0ZMxhMeq16JXBE=",
+  "Source": "Sharp.Services.PhotoStock",
+  "BasePath": "_content/Sharp.Services.PhotoStock",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Sharp.Services.PhotoStock/wwwroot",
+      "Source": "Sharp.Services.PhotoStock",
+      "ContentRoot": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
+      "BasePath": "_content/Sharp.Services.PhotoStock",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
