@@ -1,38 +1,27 @@
-﻿<Properties StartupConfiguration="{AE22BEC3-3865-4CAA-A4DC-FB2035C4751D}|https">
+﻿<Properties StartupConfiguration="{AE22BEC3-3865-4CAA-A4DC-FB2035C4751D}|http">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Services.PhotoStock.SharpCourse.Services.PhotoStock PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.Services.Basket.SharpCourse.Services.Basket FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Services/PhotoStock/Sharp.Services.PhotoStock/Controllers/PhotosController.cs">
+  <MonoDevelop.Ide.ItemProperties.Services.Basket.SharpCourse.Services.Basket PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/Basket/SharpCourse.Services.Basket/Services/BasketService.cs">
     <Files>
-      <File FileName="IdentityServer/Sharp.IdentityServer/Config.cs" Line="16" Column="50" />
-      <File FileName="IdentityServer/Sharp.IdentityServer/Properties/launchSettings.json" />
-      <File FileName="IdentityServer/Sharp.IdentityServer/Program.cs" />
-      <File FileName="IdentityServer/Sharp.IdentityServer/Controllers/UserController.cs" />
-      <File FileName="Services/PhotoStock/Sharp.Services.PhotoStock/Program.cs" Line="13" Column="4" />
-      <File FileName="Ports.txt" Line="4" Column="23" />
-      <File FileName="Services/PhotoStock/Sharp.Services.PhotoStock/Properties/launchSettings.json" Line="15" Column="31" />
-      <File FileName="Services/PhotoStock/Sharp.Services.PhotoStock/Controllers/PhotosController.cs" Line="41" Column="1" />
-      <File FileName="Services/PhotoStock/Sharp.Services.PhotoStock/Dtos/PhotoDto.cs" Line="6" Column="34" />
-      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Program.cs" Line="12" Column="1" />
-      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/appsettings.json" Line="8" Column="3" />
-      <File FileName="Services/PhotoStock/Sharp.Services.PhotoStock/appsettings.json" Line="2" Column="48" />
+      <File FileName="Services/Basket/SharpCourse.Services.Basket/appsettings.json" Line="4" Column="17" />
+      <File FileName="Services/Basket/SharpCourse.Services.Basket/Settings/RedisSettings.cs" Line="7" Column="32" />
+      <File FileName="Services/Basket/SharpCourse.Services.Basket/Program.cs" Line="19" Column="18" />
+      <File FileName="Services/Basket/SharpCourse.Services.Basket/Services/IBasketService.cs" Line="11" Column="58" />
+      <File FileName="Services/Basket/SharpCourse.Services.Basket/Services/RedisService.cs" Line="21" Column="86" />
+      <File FileName="Services/Basket/SharpCourse.Services.Basket/Services/BasketService.cs" Line="16" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SharpMicroservices" expanded="True">
-            <Node name="IdentityServer" expanded="True" />
             <Node name="Services" expanded="True">
-              <Node name="Catalog" expanded="True" />
-              <Node name="PhotoStock" expanded="True">
-                <Node name="SharpCourse.Services.PhotoStock" expanded="True">
-                  <Node name="Controllers" expanded="True" />
-                  <Node name="Dtos" expanded="True" />
-                  <Node name="wwwroot" expanded="True" />
+              <Node name="Basket" expanded="True">
+                <Node name="SharpCourse.Services.Basket" expanded="True">
+                  <Node name="Services" expanded="True" />
                 </Node>
               </Node>
             </Node>
-            <Node name="Solution Items" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -40,7 +29,9 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.IdentityServer.Sharp.IdentityServer PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Services.Catalog.SharpCourse.Services.Catalog PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MultiItemStartupConfigurations>
     <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">

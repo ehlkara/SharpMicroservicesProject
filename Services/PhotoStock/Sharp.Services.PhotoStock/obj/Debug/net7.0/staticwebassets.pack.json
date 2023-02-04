@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/f123b117-5b02-4565-a35c-4cd33637a634.png",
       "PackagePath": "staticwebassets/photos/f123b117-5b02-4565-a35c-4cd33637a634.png"
     },

@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Options;
+using Sharp.Shared.Services;
 using SharpCourse.Services.Basket.Services;
 using SharpCourse.Services.Basket.Settings;
 
@@ -6,6 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddScoped<ISharedIdentityService, SharedIdentityService>();
 builder.Services.Configure<RedisSettings>(builder.Configuration.GetSection("RedisSettings"));
 
 builder.Services.AddSingleton<RedisService>(sp =>
