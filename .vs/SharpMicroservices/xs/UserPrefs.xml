@@ -2,14 +2,16 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Services.PhotoStock.SharpCourse.Services.PhotoStock PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.Services.Basket.SharpCourse.Services.Basket PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Services/Basket/SharpCourse.Services.Basket/Services/BasketService.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/Basket/SharpCourse.Services.Basket/Program.cs">
     <Files>
-      <File FileName="Services/Basket/SharpCourse.Services.Basket/appsettings.json" Line="4" Column="17" />
-      <File FileName="Services/Basket/SharpCourse.Services.Basket/Settings/RedisSettings.cs" Line="7" Column="32" />
-      <File FileName="Services/Basket/SharpCourse.Services.Basket/Program.cs" Line="19" Column="18" />
-      <File FileName="Services/Basket/SharpCourse.Services.Basket/Services/IBasketService.cs" Line="11" Column="58" />
-      <File FileName="Services/Basket/SharpCourse.Services.Basket/Services/RedisService.cs" Line="21" Column="86" />
+      <File FileName="Services/Basket/SharpCourse.Services.Basket/appsettings.json" />
+      <File FileName="Services/Basket/SharpCourse.Services.Basket/Settings/RedisSettings.cs" />
+      <File FileName="Services/Basket/SharpCourse.Services.Basket/Program.cs" Line="13" Column="1" />
+      <File FileName="Services/Basket/SharpCourse.Services.Basket/Services/IBasketService.cs" />
+      <File FileName="Services/Basket/SharpCourse.Services.Basket/Services/RedisService.cs" />
       <File FileName="Services/Basket/SharpCourse.Services.Basket/Services/BasketService.cs" Line="16" Column="1" />
+      <File FileName="Shared/Sharp.Shared/Services/ISharedIdentityService.cs" Line="6" Column="32" />
+      <File FileName="Shared/Sharp.Shared/Services/SharedIdentityService.cs" Line="15" Column="97" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,8 +20,13 @@
             <Node name="Services" expanded="True">
               <Node name="Basket" expanded="True">
                 <Node name="SharpCourse.Services.Basket" expanded="True">
-                  <Node name="Services" expanded="True" />
+                  <Node name="Program.cs" selected="True" />
                 </Node>
+              </Node>
+            </Node>
+            <Node name="Shared" expanded="True">
+              <Node name="Sharp.Shared" expanded="True">
+                <Node name="Services" expanded="True" />
               </Node>
             </Node>
           </Node>
