@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BKklWTpsJpH5dvdgUyeiq/WglgEjtVoQmimGV5xXrqtsOOUtGQmAUx3Y6IFOWpYhF/GIBwScYTpxsPP5Q0GCTA==",
+  "dgSpecHash": "v1+xWkN/UwuVM0jjAjyHaxQnKdV6O+Y7MCUJqiZ1xZjp2Ja9ycRMRBwNLRen3P+Okn4k/T5+H1iynUKDNZ4LFA==",
   "success": true,
   "projectFilePath": "/Users/ehlkara/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/SharpCourse.Services.Discount.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,9 @@
     "/Users/ehlkara/.nuget/packages/dapper.contrib/2.0.78/dapper.contrib.2.0.78.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.openapi/7.0.2/microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/ehlkara/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/ehlkara/.nuget/packages/npgsql/7.0.1/npgsql.7.0.1.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

@@ -35,3 +35,4 @@
 /Users/ehlkara/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/bin/Debug/net7.0/Dapper.Contrib.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/bin/Debug/net7.0/Sharp.Shared.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/bin/Debug/net7.0/Sharp.Shared.pdb
+/Users/ehlkara/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/bin/Debug/net7.0/Npgsql.dll
