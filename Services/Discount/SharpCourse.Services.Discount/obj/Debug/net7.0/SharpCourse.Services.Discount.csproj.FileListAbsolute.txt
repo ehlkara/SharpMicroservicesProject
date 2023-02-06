@@ -31,3 +31,7 @@
 /Users/ehlkara/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/obj/Debug/net7.0/SharpCourse.Services.Discount.pdb
 /Users/ehlkara/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/obj/Debug/net7.0/SharpCourse.Services.Discount.genruntimeconfig.cache
 /Users/ehlkara/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/obj/Debug/net7.0/ref/SharpCourse.Services.Discount.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/bin/Debug/net7.0/Dapper.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/bin/Debug/net7.0/Dapper.Contrib.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/bin/Debug/net7.0/Sharp.Shared.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/bin/Debug/net7.0/Sharp.Shared.pdb
