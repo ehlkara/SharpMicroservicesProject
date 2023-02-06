@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0DgfIcjXuWgaKI4Itx+COqa7euttvhvyDD7S/Th/SYB64ymcU/oDuEjFLJ8nMAdK0mVbCXDN2z2vuqW/HTQ5ZA==",
+  "dgSpecHash": "eNXGccwFECFOOBOBM/iJ0AsgUavn3HVU8KKAFhavyKvR6nuCwVyN3rKEWJhk5lZesFOgNiZY4nZ+FYhH+rUJ/g==",
   "success": true,
   "projectFilePath": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/SharpCourse.Services.PhotoStock.csproj",
   "expectedPackageFiles": [
@@ -78,10 +78,10 @@
     "/Users/ehlkara/.nuget/packages/runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
-    "/Users/ehlkara/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
-    "/Users/ehlkara/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
-    "/Users/ehlkara/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "/Users/ehlkara/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/ehlkara/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/ehlkara/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/ehlkara/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/ehlkara/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/system.appcontext/4.3.0/system.appcontext.4.3.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/system.buffers/4.3.0/system.buffers.4.3.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
