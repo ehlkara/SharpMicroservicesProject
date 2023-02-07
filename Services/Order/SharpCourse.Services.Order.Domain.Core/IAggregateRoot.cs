@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SharpCourse.Services.Order.Domain.Core
 {
-    internal interface IAggregateRoot
+    public interface IAggregateRoot
     {
     }
 }
