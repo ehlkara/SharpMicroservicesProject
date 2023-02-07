@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SharpCourse.Services.Order.Infrastructure/1.0.0": {
+        "dependencies": {
+          "SharpCourse.Services.Order.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SharpCourse.Services.Order.Infrastructure.dll": {}
+        }
+      },
+      "SharpCourse.Services.Order.Domain/1.0.0": {
+        "dependencies": {
+          "SharpCourse.Services.Order.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "SharpCourse.Services.Order.Domain.dll": {}
+        }
+      },
+      "SharpCourse.Services.Order.Domain.Core/1.0.0": {
+        "runtime": {
+          "SharpCourse.Services.Order.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SharpCourse.Services.Order.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpCourse.Services.Order.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpCourse.Services.Order.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

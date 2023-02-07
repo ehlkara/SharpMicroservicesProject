@@ -3,4 +3,5 @@
  -photoStockAPI => 5012
  -basketAPI => 5013
  -discount => 5014
+ -orderAPI => 5015
 IdentityServer => 5001

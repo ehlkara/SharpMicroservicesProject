@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SharpCourse.Services.Order.Domain\SharpCourse.Services.Order.Domain.csproj" />
+    <ProjectReference Include="..\SharpCourse.Services.Order.Infrastructure\SharpCourse.Services.Order.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
