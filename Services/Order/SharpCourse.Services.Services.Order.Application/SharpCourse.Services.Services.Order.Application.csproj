@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\SharpCourse.Services.Order.Domain\SharpCourse.Services.Order.Domain.csproj" />
     <ProjectReference Include="..\SharpCourse.Services.Order.Infrastructure\SharpCourse.Services.Order.Infrastructure.csproj" />
   </ItemGroup>
