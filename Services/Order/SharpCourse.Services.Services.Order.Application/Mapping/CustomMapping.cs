@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
 using SharpCourse.Services.Order.Domain.OrderAggregate;
-using SharpCourse.Services.Services.Order.Application.Dtos;
+using SharpCourse.Services.Order.Application.Dtos;
 
-namespace SharpCourse.Services.Services.Order.Application.Mapping
+namespace SharpCourse.Services.Order.Application.Mapping
 {
     public class CustomMapping : Profile
     {

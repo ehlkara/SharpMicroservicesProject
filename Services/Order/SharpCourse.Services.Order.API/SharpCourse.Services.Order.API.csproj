@@ -14,11 +14,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\Shared\Sharp.Shared\Sharp.Shared.csproj" />
-    <ProjectReference Include="..\SharpCourse.Services.Services.Order.Application\SharpCourse.Services.Services.Order.Application.csproj" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0.0-preview.6.22330.7" />
   </ItemGroup>
 
   <ItemGroup>
@@ -27,5 +23,11 @@
 
   <ItemGroup>
     <None Remove="Microsoft.EntityFrameworkCore.Design" />
+    <None Remove="Microsoft.VisualStudio.Web.CodeGeneration.Design" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SharpCourse.Services.Services.Order.Application\SharpCourse.Services.Order.Application.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
   </ItemGroup>
 </Project>

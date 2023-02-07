@@ -2,11 +2,11 @@
 using Microsoft.EntityFrameworkCore;
 using Sharp.Shared.Dtos;
 using SharpCourse.Services.Order.Infrastructure;
-using SharpCourse.Services.Services.Order.Application.Dtos;
-using SharpCourse.Services.Services.Order.Application.Mapping;
-using SharpCourse.Services.Services.Order.Application.Queries;
+using SharpCourse.Services.Order.Application.Dtos;
+using SharpCourse.Services.Order.Application.Mapping;
+using SharpCourse.Services.Order.Application.Queries;
 
-namespace SharpCourse.Services.Services.Order.Application.Handlers
+namespace SharpCourse.Services.Order.Application.Handlers
 {
     public class GetOrdersByUserIdQueryHandler : IRequestHandler<GetOrdersByUserIdQuery, Response<List<OrderDto>>>
     {

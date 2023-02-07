@@ -2,15 +2,15 @@
 using Sharp.Shared.Dtos;
 using SharpCourse.Services.Order.Domain.OrderAggregate;
 using SharpCourse.Services.Order.Infrastructure;
-using SharpCourse.Services.Services.Order.Application.Commands;
-using SharpCourse.Services.Services.Order.Application.Dtos;
+using SharpCourse.Services.Order.Application.Commands;
+using SharpCourse.Services.Order.Application.Dtos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SharpCourse.Services.Services.Order.Application.Handlers
+namespace SharpCourse.Services.Order.Application.Handlers
 {
     public class CreateOrderCommandHandler : IRequestHandler<CreateOrderCommand, Response<CreatedOrderDto>>
     {

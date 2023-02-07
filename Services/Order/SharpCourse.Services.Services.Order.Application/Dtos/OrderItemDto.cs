@@ -1,4 +1,4 @@
-﻿namespace SharpCourse.Services.Services.Order.Application.Dtos
+﻿namespace SharpCourse.Services.Order.Application.Dtos
 {
     public class OrderItemDto
     {

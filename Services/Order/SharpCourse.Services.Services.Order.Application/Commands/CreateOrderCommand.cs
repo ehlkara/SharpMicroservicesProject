@@ -1,8 +1,8 @@
 ﻿using MediatR;
 using Sharp.Shared.Dtos;
-using SharpCourse.Services.Services.Order.Application.Dtos;
+using SharpCourse.Services.Order.Application.Dtos;
 
-namespace SharpCourse.Services.Services.Order.Application.Commands
+namespace SharpCourse.Services.Order.Application.Commands
 {
     public class CreateOrderCommand : IRequest<Response<CreatedOrderDto>>
     {

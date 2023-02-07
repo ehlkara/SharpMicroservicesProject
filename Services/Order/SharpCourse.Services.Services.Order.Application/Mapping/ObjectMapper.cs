@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 
-namespace SharpCourse.Services.Services.Order.Application.Mapping
+namespace SharpCourse.Services.Order.Application.Mapping
 {
     public static class ObjectMapper
     {

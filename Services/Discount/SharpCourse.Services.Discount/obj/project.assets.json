@@ -9957,43 +9957,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ArentechDev\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/ehlkara/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Discount\\SharpCourse.Services.Discount\\SharpCourse.Services.Discount.csproj",
+      "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/SharpCourse.Services.Discount.csproj",
       "projectName": "SharpCourse.Services.Discount",
-      "projectPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Discount\\SharpCourse.Services.Discount\\SharpCourse.Services.Discount.csproj",
-      "packagesPath": "C:\\Users\\ArentechDev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Discount\\SharpCourse.Services.Discount\\obj\\",
+      "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/SharpCourse.Services.Discount.csproj",
+      "packagesPath": "/Users/ehlkara/.nuget/packages/",
+      "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ArentechDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Shared\\Sharp.Shared\\Sharp.Shared.csproj": {
-              "projectPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Shared\\Sharp.Shared\\Sharp.Shared.csproj"
+            "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
+              "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj"
             }
           }
         }
@@ -10052,7 +10041,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }

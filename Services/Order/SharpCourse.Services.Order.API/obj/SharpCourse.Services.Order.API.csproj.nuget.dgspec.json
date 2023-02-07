@@ -1,45 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.API\\SharpCourse.Services.Order.API.csproj": {}
+    "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/SharpCourse.Services.Order.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.API\\SharpCourse.Services.Order.API.csproj": {
+    "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/SharpCourse.Services.Order.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.API\\SharpCourse.Services.Order.API.csproj",
+        "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/SharpCourse.Services.Order.API.csproj",
         "projectName": "SharpCourse.Services.Order.API",
-        "projectPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.API\\SharpCourse.Services.Order.API.csproj",
-        "packagesPath": "C:\\Users\\ArentechDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.API\\obj\\",
+        "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/SharpCourse.Services.Order.API.csproj",
+        "packagesPath": "/Users/ehlkara/.nuget/packages/",
+        "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ArentechDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Services.Order.Application\\SharpCourse.Services.Services.Order.Application.csproj": {
-                "projectPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Services.Order.Application\\SharpCourse.Services.Services.Order.Application.csproj"
-              },
-              "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Shared\\Sharp.Shared\\Sharp.Shared.csproj": {
-                "projectPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Shared\\Sharp.Shared\\Sharp.Shared.csproj"
+              "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/SharpCourse.Services.Order.Application.csproj": {
+                "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/SharpCourse.Services.Order.Application.csproj"
               }
             }
           }
@@ -63,6 +51,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.0-preview.6.22330.7, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -88,35 +80,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Domain.Core\\SharpCourse.Services.Order.Domain.Core.csproj": {
+    "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Domain.Core\\SharpCourse.Services.Order.Domain.Core.csproj",
+        "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj",
         "projectName": "SharpCourse.Services.Order.Domain.Core",
-        "projectPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Domain.Core\\SharpCourse.Services.Order.Domain.Core.csproj",
-        "packagesPath": "C:\\Users\\ArentechDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Domain.Core\\obj\\",
+        "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj",
+        "packagesPath": "/Users/ehlkara/.nuget/packages/",
+        "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ArentechDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -150,43 +133,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Domain\\SharpCourse.Services.Order.Domain.csproj": {
+    "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Domain\\SharpCourse.Services.Order.Domain.csproj",
+        "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj",
         "projectName": "SharpCourse.Services.Order.Domain",
-        "projectPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Domain\\SharpCourse.Services.Order.Domain.csproj",
-        "packagesPath": "C:\\Users\\ArentechDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Domain\\obj\\",
+        "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj",
+        "packagesPath": "/Users/ehlkara/.nuget/packages/",
+        "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ArentechDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Domain.Core\\SharpCourse.Services.Order.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Domain.Core\\SharpCourse.Services.Order.Domain.Core.csproj"
+              "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj": {
+                "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj"
               }
             }
           }
@@ -216,43 +190,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Infrastructure\\SharpCourse.Services.Order.Infrastructure.csproj": {
+    "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Infrastructure/SharpCourse.Services.Order.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Infrastructure\\SharpCourse.Services.Order.Infrastructure.csproj",
+        "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Infrastructure/SharpCourse.Services.Order.Infrastructure.csproj",
         "projectName": "SharpCourse.Services.Order.Infrastructure",
-        "projectPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Infrastructure\\SharpCourse.Services.Order.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\ArentechDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Infrastructure\\obj\\",
+        "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Infrastructure/SharpCourse.Services.Order.Infrastructure.csproj",
+        "packagesPath": "/Users/ehlkara/.nuget/packages/",
+        "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Infrastructure/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ArentechDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Domain\\SharpCourse.Services.Order.Domain.csproj": {
-                "projectPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Domain\\SharpCourse.Services.Order.Domain.csproj"
+              "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj": {
+                "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj"
               }
             }
           }
@@ -280,10 +245,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.2, )"
-            },
-            "Microsoft.Extensions.Configuration.UserSecrets": {
-              "target": "Package",
-              "version": "[5.0.0, )"
             }
           },
           "imports": [
@@ -302,49 +263,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Services.Order.Application\\SharpCourse.Services.Services.Order.Application.csproj": {
+    "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/SharpCourse.Services.Order.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Services.Order.Application\\SharpCourse.Services.Services.Order.Application.csproj",
-        "projectName": "SharpCourse.Services.Services.Order.Application",
-        "projectPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Services.Order.Application\\SharpCourse.Services.Services.Order.Application.csproj",
-        "packagesPath": "C:\\Users\\ArentechDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Services.Order.Application\\obj\\",
+        "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/SharpCourse.Services.Order.Application.csproj",
+        "projectName": "SharpCourse.Services.Order.Application",
+        "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/SharpCourse.Services.Order.Application.csproj",
+        "packagesPath": "/Users/ehlkara/.nuget/packages/",
+        "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ArentechDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Domain\\SharpCourse.Services.Order.Domain.csproj": {
-                "projectPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Domain\\SharpCourse.Services.Order.Domain.csproj"
+              "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj": {
+                "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj"
               },
-              "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Infrastructure\\SharpCourse.Services.Order.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Infrastructure\\SharpCourse.Services.Order.Infrastructure.csproj"
+              "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Infrastructure/SharpCourse.Services.Order.Infrastructure.csproj": {
+                "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Infrastructure/SharpCourse.Services.Order.Infrastructure.csproj"
               },
-              "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Shared\\Sharp.Shared\\Sharp.Shared.csproj": {
-                "projectPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Shared\\Sharp.Shared\\Sharp.Shared.csproj"
+              "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
+                "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj"
               }
             }
           }
@@ -384,35 +336,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Shared\\Sharp.Shared\\Sharp.Shared.csproj": {
+    "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Shared\\Sharp.Shared\\Sharp.Shared.csproj",
+        "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj",
         "projectName": "Sharp.Shared",
-        "projectPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Shared\\Sharp.Shared\\Sharp.Shared.csproj",
-        "packagesPath": "C:\\Users\\ArentechDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Shared\\Sharp.Shared\\obj\\",
+        "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj",
+        "packagesPath": "/Users/ehlkara/.nuget/packages/",
+        "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ArentechDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -449,7 +392,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }

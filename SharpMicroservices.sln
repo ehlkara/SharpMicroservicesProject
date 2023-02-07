@@ -38,7 +38,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Order", "Order", "{372F7580
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpCourse.Services.Order.API", "Services\Order\SharpCourse.Services.Order.API\SharpCourse.Services.Order.API.csproj", "{60BDC6CC-6816-412E-AE4B-27D1B8943E39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpCourse.Services.Services.Order.Application", "Services\Order\SharpCourse.Services.Services.Order.Application\SharpCourse.Services.Services.Order.Application.csproj", "{B0604890-D20D-4D39-AF79-A551FA5A9B76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpCourse.Services.Order.Application", "Services\Order\SharpCourse.Services.Services.Order.Application\SharpCourse.Services.Order.Application.csproj", "{B0604890-D20D-4D39-AF79-A551FA5A9B76}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpCourse.Services.Order.Domain", "Services\Order\SharpCourse.Services.Order.Domain\SharpCourse.Services.Order.Domain.csproj", "{95057DE1-8CD9-402F-B7E8-67E41488DBF2}"
 EndProject

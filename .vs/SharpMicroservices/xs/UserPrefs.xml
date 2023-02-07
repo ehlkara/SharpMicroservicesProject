@@ -1,7 +1,5 @@
-﻿<Properties StartupConfiguration="{60BDC6CC-6816-412E-AE4B-27D1B8943E39}|http">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+﻿<Properties DisableUseMSBuildOnMonoInfoBar="True" StartupConfiguration="{60BDC6CC-6816-412E-AE4B-27D1B8943E39}|http">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.Services.Order.SharpCourse.Services.Order.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.Services.Basket.SharpCourse.Services.Basket PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Services/Order/SharpCourse.Services.Order.API/Program.cs">
