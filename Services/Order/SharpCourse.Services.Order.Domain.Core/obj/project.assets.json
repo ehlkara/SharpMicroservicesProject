@@ -8,35 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ArentechDev\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/ehlkara/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Domain.Core\\SharpCourse.Services.Order.Domain.Core.csproj",
+      "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj",
       "projectName": "SharpCourse.Services.Order.Domain.Core",
-      "projectPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Domain.Core\\SharpCourse.Services.Order.Domain.Core.csproj",
-      "packagesPath": "C:\\Users\\ArentechDev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Domain.Core\\obj\\",
+      "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj",
+      "packagesPath": "/Users/ehlkara/.nuget/packages/",
+      "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ArentechDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -70,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }

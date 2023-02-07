@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+ZdWZuKgGJw4Lr47+dpb+TLYL+wnJKegg1d6ChxkCXI=",
+  "Hash": "d6mcPzHPt7CZyK9XK+lDMqzWEPev2nN8oz2YUgBjE1o=",
   "Source": "Sharp.Services.PhotoStock",
   "BasePath": "_content/Sharp.Services.PhotoStock",
   "Mode": "Default",
@@ -8,19 +8,36 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "Sharp.Services.PhotoStock\\wwwroot",
+      "Name": "Sharp.Services.PhotoStock/wwwroot",
       "Source": "Sharp.Services.PhotoStock",
-      "ContentRoot": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\PhotoStock\\Sharp.Services.PhotoStock\\wwwroot\\",
+      "ContentRoot": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
       "BasePath": "_content/Sharp.Services.PhotoStock",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\PhotoStock\\Sharp.Services.PhotoStock\\wwwroot\\photos\\f123b117-5b02-4565-a35c-4cd33637a634.png",
+      "Identity": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/.DS_Store",
       "SourceId": "Sharp.Services.PhotoStock",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\PhotoStock\\Sharp.Services.PhotoStock\\wwwroot\\",
+      "ContentRoot": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
+      "BasePath": "_content/Sharp.Services.PhotoStock",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
+      "Identity": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/f123b117-5b02-4565-a35c-4cd33637a634.png",
+      "SourceId": "Sharp.Services.PhotoStock",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
       "BasePath": "_content/Sharp.Services.PhotoStock",
       "RelativePath": "photos/f123b117-5b02-4565-a35c-4cd33637a634.png",
       "AssetKind": "All",
@@ -31,7 +48,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\photos\\f123b117-5b02-4565-a35c-4cd33637a634.png"
+      "OriginalItemSpec": "wwwroot/photos/f123b117-5b02-4565-a35c-4cd33637a634.png"
     }
   ]
 }

@@ -4,6 +4,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <UserSecretsId>85f2b6ed-ca2b-46e1-ba3e-112b3c4d6f84</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,10 +14,14 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="5.0.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\SharpCourse.Services.Order.Domain\SharpCourse.Services.Order.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Microsoft.Extensions.Configuration.UserSecrets" />
+  </ItemGroup>
 </Project>
