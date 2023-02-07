@@ -106,6 +106,7 @@ C:/Users/ArentechDev/Documents/GitHub/SharpMicroservicesProject/Services/Order/S
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/MessagePack.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/MessagePack.Annotations.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
