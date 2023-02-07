@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tljbPakn+EWwdg3apOgQii+B1kpoXzDcA03Q/Gmf1Bw2FR/qVGftiaY+8d3DUl6DZtK+dZG2QfGaNxUHeAwOkw==",
+  "dgSpecHash": "gBLGoNUVlMwX5VBQhQrj8UNmpHUMemWtvt5fKEfrSAvEDag+NaQXa/r4xqrXoG5VlzM1YKqelegjNljnNLaTuA==",
   "success": true,
   "projectFilePath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/SharpCourse.Services.Order.API.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "/Users/ehlkara/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/messagepack.annotations/2.1.152/messagepack.annotations.2.1.152.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/messagepackanalyzer/2.1.152/messagepackanalyzer.2.1.152.nupkg.sha512",
+    "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.2/microsoft.aspnetcore.authentication.jwtbearer.7.0.2.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.openapi/7.0.2/microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.razor.language/6.0.0/microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.bcl.asyncinterfaces/5.0.0/microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
