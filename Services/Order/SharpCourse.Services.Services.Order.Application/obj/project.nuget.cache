@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0Un8Lx0fT/YNQE75/2m4iDfvAgEYsWC1m47pZ3BFd+DJgi9gF/zDgZwCL5x+xcalOIl7SF1VvHPB3x+fgLevig==",
+  "dgSpecHash": "KCm0WpA2iyIY7beZE0ZUtXihJp7xG8b86CmwkYJp+HB7KfdpdgnTVe08RKbUH+9lOfujcRcpD6NC5htT4vVgTQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Services.Order.Application\\SharpCourse.Services.Services.Order.Application.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,9 @@
     "C:\\Users\\ArentechDev\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\ArentechDev\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ArentechDev\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\ArentechDev\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\ArentechDev\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\ArentechDev\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\ArentechDev\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ArentechDev\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ArentechDev\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",

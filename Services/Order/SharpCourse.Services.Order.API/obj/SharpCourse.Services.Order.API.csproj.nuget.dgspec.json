@@ -194,6 +194,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -332,6 +338,9 @@
               },
               "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Infrastructure\\SharpCourse.Services.Order.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Infrastructure\\SharpCourse.Services.Order.Infrastructure.csproj"
+              },
+              "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Shared\\Sharp.Shared\\Sharp.Shared.csproj": {
+                "projectPath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Shared\\Sharp.Shared\\Sharp.Shared.csproj"
               }
             }
           }

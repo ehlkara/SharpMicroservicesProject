@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ySVuUmu2M11FvowMfh8qWGRHF0Dg9VVZ/xU0gF69ppGOB9ytHqxgccueAlU0vKsES0i/IObeHsJUKODE6Vks8Q==",
+  "dgSpecHash": "/8ILZMFc6m+yLMdsTUC1uxiQ1j+dqWT45tMThx/ga8IcwhGz+Qi5dBFkI7K6FFi93AH5PCS6Idg9bl6418bFIw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ArentechDev\\Documents\\GitHub\\SharpMicroservicesProject\\Services\\Order\\SharpCourse.Services.Order.Domain\\SharpCourse.Services.Order.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ArentechDev\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\ArentechDev\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\ArentechDev\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\ArentechDev\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
