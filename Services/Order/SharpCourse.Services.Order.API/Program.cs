@@ -5,14 +5,6 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-//builder.Services.AddDbContext<OrderDbContext>(opt =>
-//{
-//    opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"), configure =>
-//    {
-//        configure.MigrationsAssembly("SharpCourse.Services.Order.Infrastructure");
-//    });
-//});
-
 builder.Services.AddDbContext<OrderDbContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"),

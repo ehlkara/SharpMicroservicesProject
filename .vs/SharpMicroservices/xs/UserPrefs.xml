@@ -1,22 +1,22 @@
 ﻿<Properties StartupConfiguration="{60BDC6CC-6816-412E-AE4B-27D1B8943E39}|http">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Services.Order.SharpCourse.Services.Order.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.Services.Basket.SharpCourse.Services.Basket PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/Order/SharpCourse.Services.Order.API/Program.cs">
+    <Files>
+      <File FileName="Services/Order/SharpCourse.Services.Order.API/Program.cs" Line="10" Column="24" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SharpMicroservices" expanded="True">
+          <Node name="SharpMicroservices" expanded="True" selected="True">
+            <Node name="IdentityServer" expanded="True" />
             <Node name="Services" expanded="True">
-              <Node name="Discount" expanded="True">
-                <Node name="SharpCourse.Services.Discount" expanded="True">
-                  <Node name="Controllers" expanded="True" />
-                  <Node name="Models" expanded="True" />
-                  <Node name="Scripts" expanded="True">
-                    <Node name="dbCount sql scripts.txt" selected="True" />
-                  </Node>
-                  <Node name="Services" expanded="True" />
-                </Node>
+              <Node name="Order" expanded="True">
+                <Node name="SharpCourse.Services.Order.API" expanded="True" />
+                <Node name="SharpCourse.Services.Order.Infrastructure" expanded="True" />
               </Node>
             </Node>
           </Node>
