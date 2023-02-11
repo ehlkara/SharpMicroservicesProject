@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "SharpCourse.Services.Services.Order.Application/1.0.0": {
+      "SharpCourse.Services.Order.Application/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "11.0.0",
@@ -15,7 +15,7 @@
           "SharpCourse.Services.Order.Infrastructure": "1.0.0"
         },
         "runtime": {
-          "SharpCourse.Services.Services.Order.Application.dll": {}
+          "SharpCourse.Services.Order.Application.dll": {}
         }
       },
       "AutoMapper/12.0.0": {
@@ -638,7 +638,7 @@
     }
   },
   "libraries": {
-    "SharpCourse.Services.Services.Order.Application/1.0.0": {
+    "SharpCourse.Services.Order.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

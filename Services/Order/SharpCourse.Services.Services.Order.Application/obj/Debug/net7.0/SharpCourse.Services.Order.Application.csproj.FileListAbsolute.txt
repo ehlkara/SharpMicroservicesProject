@@ -1,6 +1,6 @@
-/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/bin/Debug/net7.0/SharpCourse.Services.Services.Order.Application.deps.json
-/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/bin/Debug/net7.0/SharpCourse.Services.Services.Order.Application.dll
-/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/bin/Debug/net7.0/SharpCourse.Services.Services.Order.Application.pdb
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/bin/Debug/net7.0/SharpCourse.Services.Order.Application.deps.json
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/bin/Debug/net7.0/SharpCourse.Services.Order.Application.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/bin/Debug/net7.0/SharpCourse.Services.Order.Application.pdb
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/bin/Debug/net7.0/Sharp.Shared.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/bin/Debug/net7.0/SharpCourse.Services.Order.Domain.Core.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/bin/Debug/net7.0/SharpCourse.Services.Order.Domain.dll
@@ -15,7 +15,7 @@
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/obj/Debug/net7.0/SharpCourse.Services.Order.Application.AssemblyInfo.cs
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/obj/Debug/net7.0/SharpCourse.Services.Order.Application.csproj.CoreCompileInputs.cache
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/obj/Debug/net7.0/SharpCourse.Services.Order.Application.csproj.CopyComplete
-/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/obj/Debug/net7.0/SharpCourse.Services.Services.Order.Application.dll
-/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/obj/Debug/net7.0/refint/SharpCourse.Services.Services.Order.Application.dll
-/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/obj/Debug/net7.0/SharpCourse.Services.Services.Order.Application.pdb
-/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/obj/Debug/net7.0/ref/SharpCourse.Services.Services.Order.Application.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/obj/Debug/net7.0/SharpCourse.Services.Order.Application.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/obj/Debug/net7.0/refint/SharpCourse.Services.Order.Application.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/obj/Debug/net7.0/SharpCourse.Services.Order.Application.pdb
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/obj/Debug/net7.0/ref/SharpCourse.Services.Order.Application.dll

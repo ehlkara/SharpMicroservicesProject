@@ -2439,7 +2439,7 @@
           "SharpCourse.Services.Order.Infrastructure": "1.0.0"
         },
         "runtime": {
-          "SharpCourse.Services.Services.Order.Application.dll": {}
+          "SharpCourse.Services.Order.Application.dll": {}
         }
       },
       "SharpCourse.Services.Order.Domain/1.0.0": {

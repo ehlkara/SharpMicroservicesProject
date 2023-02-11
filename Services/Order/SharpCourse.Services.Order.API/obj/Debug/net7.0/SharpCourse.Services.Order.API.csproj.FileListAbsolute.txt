@@ -350,11 +350,11 @@ C:/Users/ArentechDev/Documents/GitHub/SharpMicroservicesProject/Services/Order/S
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/Sharp.Shared.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/SharpCourse.Services.Order.Application.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/SharpCourse.Services.Order.Domain.Core.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/SharpCourse.Services.Order.Domain.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/SharpCourse.Services.Order.Infrastructure.dll
-/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/SharpCourse.Services.Services.Order.Application.dll
-/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/SharpCourse.Services.Services.Order.Application.pdb
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/SharpCourse.Services.Order.Application.pdb
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/Sharp.Shared.pdb
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/SharpCourse.Services.Order.Domain.pdb
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/SharpCourse.Services.Order.Domain.Core.pdb
