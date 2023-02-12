@@ -8,4 +8,10 @@
 
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <None Remove="Ocelot" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Ocelot" Version="18.0.0" />
+  </ItemGroup>
 </Project>
