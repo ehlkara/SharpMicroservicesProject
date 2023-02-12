@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N6NZ+k4NrTOdO/ahlSRi8EJt1BMUyz5ftizzsKNBy2M=",
+  "Source": "SharpCourse.Gateway",
+  "BasePath": "_content/SharpCourse.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
