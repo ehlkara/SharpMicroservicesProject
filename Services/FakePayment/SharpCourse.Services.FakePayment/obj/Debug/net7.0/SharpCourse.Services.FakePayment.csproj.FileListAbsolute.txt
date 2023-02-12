@@ -10,6 +10,8 @@
 /Users/ehlkara/SharpMicroservicesProject/Services/FakePayment/SharpCourse.Services.FakePayment/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/FakePayment/SharpCourse.Services.FakePayment/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/FakePayment/SharpCourse.Services.FakePayment/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/FakePayment/SharpCourse.Services.FakePayment/bin/Debug/net7.0/Sharp.Shared.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/FakePayment/SharpCourse.Services.FakePayment/bin/Debug/net7.0/Sharp.Shared.pdb
 /Users/ehlkara/SharpMicroservicesProject/Services/FakePayment/SharpCourse.Services.FakePayment/obj/Debug/net7.0/SharpCourse.Services.FakePayment.csproj.AssemblyReference.cache
 /Users/ehlkara/SharpMicroservicesProject/Services/FakePayment/SharpCourse.Services.FakePayment/obj/Debug/net7.0/SharpCourse.Services.FakePayment.GeneratedMSBuildEditorConfig.editorconfig
 /Users/ehlkara/SharpMicroservicesProject/Services/FakePayment/SharpCourse.Services.FakePayment/obj/Debug/net7.0/SharpCourse.Services.FakePayment.AssemblyInfoInputs.cache
