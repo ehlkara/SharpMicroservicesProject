@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "SA5AnqQpqWRsKj+oska6OudhiYofbtAy/FvOwaZkb+3AnK8k9n55622zaCsUdKUfEnoKvCHjYpCxcjxb26WUqA==",
+  "dgSpecHash": "0WV6XYRjGjcJz/NP8+zoOZ9cst73c0jUoCT4IIK6QzOUmQfqoXOe87Cps1ngbcyjNDxYJCXdSCj10e4s/LGJNw==",
   "success": true,
   "projectFilePath": "/Users/ehlkara/SharpMicroservicesProject/Services/FakePayment/SharpCourse.Services.FakePayment/SharpCourse.Services.FakePayment.csproj",
   "expectedPackageFiles": [
-    "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.2/microsoft.aspnetcore.authentication.jwtbearer.7.0.2.nupkg.sha512",
-    "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.openapi/7.0.2/microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
+    "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.3/microsoft.aspnetcore.authentication.jwtbearer.7.0.3.nupkg.sha512",
+    "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.openapi/7.0.3/microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.15.1/microsoft.identitymodel.jsonwebtokens.6.15.1.nupkg.sha512",
