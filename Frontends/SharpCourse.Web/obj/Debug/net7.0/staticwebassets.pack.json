@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/SharpCourse.Web.bundle.scp.css"
     },
     {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
@@ -15,6 +19,186 @@
     {
       "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/.DS_Store",
+      "PackagePath": "staticwebassets/lib/.DS_Store"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap-5.3/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap-5.3/js/bootstrap.min.js.map"
     },
     {
       "Id": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/wwwroot/lib/bootstrap/LICENSE",
