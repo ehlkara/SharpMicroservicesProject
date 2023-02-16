@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JsFKAjyk8mwa3rL8KrKwUjHOAE2W3RZyDLUr6e9ccBjItYGG/ak2Gz+XOd0/qSYxi4jq+udLpPgIu4WKTuGzfw==",
+  "dgSpecHash": "i2ckhroomSEpP814OLDW6mNru/5ye5PVJVwsmOqZqcP0gWLxQZl0yG3B/6+kcK/AoChJJoZ2y+oZhZbsungX/A==",
   "success": true,
   "projectFilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/SharpCourse.Web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/ehlkara/.nuget/packages/identitymodel/6.0.0/identitymodel.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
