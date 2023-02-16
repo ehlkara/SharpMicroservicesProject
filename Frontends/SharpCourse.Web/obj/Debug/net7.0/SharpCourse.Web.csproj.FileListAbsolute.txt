@@ -29,3 +29,8 @@
 /Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/obj/Debug/net7.0/SharpCourse.Web.pdb
 /Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/obj/Debug/net7.0/SharpCourse.Web.genruntimeconfig.cache
 /Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/obj/Debug/net7.0/ref/SharpCourse.Web.dll
+/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/bin/Debug/net7.0/IdentityModel.dll
+/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/bin/Debug/net7.0/Sharp.Shared.dll
+/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/bin/Debug/net7.0/Sharp.Shared.pdb
+/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/obj/Debug/net7.0/SharpCourse.Web.MvcApplicationPartsAssemblyInfo.cs
+/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/obj/Debug/net7.0/SharpCourse.Web.csproj.CopyComplete
