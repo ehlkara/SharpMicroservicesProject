@@ -32,7 +32,7 @@ namespace SharpCourse.Web.Services
         {
             var disco = await _httpClient.GetDiscoveryDocumentAsync(new DiscoveryDocumentRequest
             {
-                Address = _serviceApiSettings.BaseUrl,
+                Address = _serviceApiSettings.IdentityBaseUrl,
                 Policy = new DiscoveryPolicy { RequireHttps = false }
             });
 
@@ -82,7 +82,7 @@ namespace SharpCourse.Web.Services
         {
             var disco = await _httpClient.GetDiscoveryDocumentAsync(new DiscoveryDocumentRequest
             {
-                Address = _serviceApiSettings.BaseUrl,
+                Address = _serviceApiSettings.IdentityBaseUrl,
                 Policy = new DiscoveryPolicy { RequireHttps = false }
             });
 
@@ -109,7 +109,7 @@ namespace SharpCourse.Web.Services
         {
             var disco = await _httpClient.GetDiscoveryDocumentAsync(new DiscoveryDocumentRequest
             {
-                Address = _serviceApiSettings.BaseUrl,
+                Address = _serviceApiSettings.IdentityBaseUrl,
                 Policy = new DiscoveryPolicy { RequireHttps = false }
             });
 

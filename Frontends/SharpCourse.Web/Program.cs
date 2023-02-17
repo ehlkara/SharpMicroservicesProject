@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Authentication.Cookies;
+﻿using System.Runtime.ConstrainedExecution;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using SharpCourse.Web.Models;
 using SharpCourse.Web.Services;
 using SharpCourse.Web.Services.Interfaces;
@@ -6,11 +7,18 @@ using SharpCourse.Web.Services.Interfaces;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddHttpContextAccessor();
-builder.Services.AddHttpClient<IIdentityService, IdentityService>();
-
 builder.Services.Configure<ClientSettings>(builder.Configuration.GetSection("ClientSettings"));
 builder.Services.Configure<ServiceApiSettings>(builder.Configuration.GetSection("ServiceApiSettings"));
+builder.Services.AddHttpContextAccessor();
+
+var serviceApiSettings = builder.Configuration.GetSection("ServiceApiSettings").Get<ServiceApiSettings>();
+
+builder.Services.AddHttpClient<IIdentityService, IdentityService>();
+
+builder.Services.AddHttpClient<IUserService, UserService>(opt =>
+{
+    opt.BaseAddress = new Uri(serviceApiSettings.IdentityBaseUrl);
+});
 
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(CookieAuthenticationDefaults.AuthenticationScheme, opts =>
