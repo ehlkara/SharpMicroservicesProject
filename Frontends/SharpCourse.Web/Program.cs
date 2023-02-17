@@ -1,8 +1,12 @@
 ﻿using SharpCourse.Web.Models;
+using SharpCourse.Web.Services;
+using SharpCourse.Web.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddHttpClient<IIdentityService, IdentityService>();
 
 builder.Services.Configure<ClientSettings>(builder.Configuration.GetSection("ClientSettings"));
 builder.Services.Configure<ServiceApiSettings>(builder.Configuration.GetSection("ServiceApiSettings"));
