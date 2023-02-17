@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{FD5EB26A-8C20-444E-8158-CFB10D1C39AA}|http" DisableUseMSBuildOnMonoInfoBar="True">
+﻿<Properties StartupConfiguration="Multiple Projects" DisableUseMSBuildOnMonoInfoBar="True">
   <MonoDevelop.Ide.ItemProperties.Frontends.SharpCourse.Web PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
@@ -13,16 +13,16 @@
       <Items>
         <StartupItem ItemId="{782E39CF-AF19-40F2-83D7-D3753C26CBC1}" ItemName="Sharp.IdentityServer" ConfigurationId="SelfHost" />
         <StartupItem ItemId="{85385078-0AD3-495A-A249-8D5B3CC6BF6F}" ItemName="SharpCourse.Gateway" ConfigurationId="http" />
-        <StartupItem ItemId="{CBED3C80-32CE-4D89-B76D-1441A8DC8753}" ItemName="SharpCourse.Services.Catalog" ConfigurationId="http" />
+        <StartupItem ItemId="{FD5EB26A-8C20-444E-8158-CFB10D1C39AA}" ItemName="SharpCourse.Web" ConfigurationId="http" />
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Frontends/SharpCourse.Web/Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Frontends/SharpCourse.Web/Services/IdentityService.cs">
     <Files>
-      <File FileName="Frontends/SharpCourse.Web/Controllers/AuthController.cs" Line="11" Column="35" />
-      <File FileName="Frontends/SharpCourse.Web/Views/Auth/SignIn.cshtml" Line="26" Column="72" />
-      <File FileName="Frontends/SharpCourse.Web/Views/Shared/_Layout.cshtml" Line="26" Column="1" />
+      <File FileName="Frontends/SharpCourse.Web/Services/IdentityService.cs" Line="49" Column="1" />
+      <File FileName="Frontends/SharpCourse.Web/Program.cs" Line="20" Column="39" />
+      <File FileName="Frontends/SharpCourse.Web/appsettings.json" Line="10" Column="7" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -30,14 +30,13 @@
           <Node name="SharpMicroservices" expanded="True">
             <Node name="Frontends" expanded="True">
               <Node name="SharpCourse.Web" expanded="True">
-                <Node name="Controllers" expanded="True" />
-                <Node name="Views" expanded="True">
-                  <Node name="Auth" expanded="True" />
-                  <Node name="Shared" expanded="True">
-                    <Node name="_Layout.cshtml" selected="True" />
-                  </Node>
+                <Node name="Services" expanded="True">
+                  <Node name="IdentityService.cs" selected="True" />
                 </Node>
               </Node>
+            </Node>
+            <Node name="IdentityServer" expanded="True">
+              <Node name="Sharp.IdentityServer" expanded="True" />
             </Node>
           </Node>
         </State>
