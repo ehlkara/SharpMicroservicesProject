@@ -5,11 +5,11 @@ namespace SharpCourse.Web.Models
 {
 	public class SigninInput
 	{
-		[Display(Name = "Email adresiniz")]
+		[Display(Name = "Email Address")]
 		public string Email { get; set; }
-        [Display(Name = "Şifreniz")]
+        [Display(Name = "Password")]
         public string Password { get; set; }
-        [Display(Name = "Beni hatırla")]
+        [Display(Name = "Remember Me")]
         public bool IsRemember { get; set; }
 	}
 }
