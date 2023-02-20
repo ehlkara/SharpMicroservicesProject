@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Mvc;
 using SharpCourse.Web.Models;
 using SharpCourse.Web.Services.Interfaces;
@@ -42,6 +44,14 @@ namespace SharpCourse.Web.Controllers
             }
 
             return RedirectToAction(nameof(Index), "Home");
+        }
+
+        public async Task<IActionResult> LogOut()
+        {
+            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            await _ıdentityService.RevokeRefreshToken();
+
+            return RedirectToAction(nameof(HomeController.Index), "Home");
         }
     }
 }
