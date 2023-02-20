@@ -1,5 +1,6 @@
 ﻿using System.Runtime.ConstrainedExecution;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using SharpCourse.Web.Handler;
 using SharpCourse.Web.Models;
 using SharpCourse.Web.Services;
 using SharpCourse.Web.Services.Interfaces;
@@ -18,7 +19,7 @@ builder.Services.AddHttpClient<IIdentityService, IdentityService>();
 builder.Services.AddHttpClient<IUserService, UserService>(opt =>
 {
     opt.BaseAddress = new Uri(serviceApiSettings.IdentityBaseUrl);
-});
+}).AddHttpMessageHandler<ResourceOwnerPasswordTokenHandler>();
 
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(CookieAuthenticationDefaults.AuthenticationScheme, opts =>
