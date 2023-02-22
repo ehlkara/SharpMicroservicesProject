@@ -1,4 +1,7 @@
 ﻿<Properties StartupConfiguration="Multiple Projects" DisableUseMSBuildOnMonoInfoBar="True">
+  <MonoDevelop.Ide.ItemProperties.Services.Discount.SharpCourse.Services.Discount PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.Frontends.SharpCourse.Web PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations>
     <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
       <Items>
@@ -8,9 +11,26 @@
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Frontends/SharpCourse.Web/Services/CatalogService.cs">
+  <MonoDevelop.Ide.ItemProperties.Services.Catalog.SharpCourse.Services.Catalog PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Services.Basket.SharpCourse.Services.Basket PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.Order.SharpCourse.Services.Order.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.Gateways.SharpCourse.Gateway PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.FakePayment.SharpCourse.Services.FakePayment PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Frontends/SharpCourse.Web/Services/ClientCredentialTokenService.cs">
     <Files>
-      <File FileName="Frontends/SharpCourse.Web/Services/CatalogService.cs" Line="15" Column="1" />
+      <File FileName="Frontends/SharpCourse.Web/Controllers/CoursesController.cs" Line="26" Column="8" />
+      <File FileName="Frontends/SharpCourse.Web/Services/Interfaces/ICatalogService.cs" Line="1" Column="1" />
+      <File FileName="Frontends/SharpCourse.Web/Program.cs" Line="18" Column="93" />
+      <File FileName="Frontends/SharpCourse.Web/Views/Courses/Index.cshtml" Line="39" Column="46" />
+      <File FileName="Frontends/SharpCourse.Web/Views/_ViewImports.cshtml" Line="3" Column="39" />
+      <File FileName="Frontends/SharpCourse.Web/Services/Interfaces/IClientCredentialTokenService.cs" Line="8" Column="2" />
+      <File FileName="Frontends/SharpCourse.Web/Services/ClientCredentialTokenService.cs" Line="26" Column="10" />
+      <File FileName="Frontends/SharpCourse.Web/Services/Interfaces/IIdentityService.cs" Line="1" Column="1" />
+      <File FileName="Frontends/SharpCourse.Web/Services/IdentityService.cs" Line="39" Column="31" />
+      <File FileName="Frontends/SharpCourse.Web/appsettings.json" Line="11" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,14 +38,15 @@
           <Node name="SharpMicroservices" expanded="True">
             <Node name="Frontends" expanded="True">
               <Node name="SharpCourse.Web" expanded="True">
-                <Node name="Services" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="Services" expanded="True">
-              <Node name="Catalog" expanded="True">
-                <Node name="SharpCourse.Services.Catalog" expanded="True">
-                  <Node name="Dtos" expanded="True" />
-                  <Node name="Models" expanded="True" />
+                <Node name="Dependencies" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                </Node>
+                <Node name="Controllers" expanded="True" />
+                <Node name="Services" expanded="True">
+                  <Node name="Interfaces" expanded="True" />
+                </Node>
+                <Node name="Views" expanded="True">
+                  <Node name="Shared" expanded="True" />
                 </Node>
               </Node>
             </Node>
@@ -34,18 +55,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Gateways.SharpCourse.Gateway PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.Services.FakePayment.SharpCourse.Services.FakePayment PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.Services.Discount.SharpCourse.Services.Discount PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.Services.Catalog.SharpCourse.Services.Catalog PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.IdentityServer.Sharp.IdentityServer PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.Services.Basket.SharpCourse.Services.Basket PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Services.PhotoStock.SharpCourse.Services.PhotoStock PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.Services.Order.SharpCourse.Services.Order.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.Frontends.SharpCourse.Web PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.IdentityServer.Sharp.IdentityServer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
