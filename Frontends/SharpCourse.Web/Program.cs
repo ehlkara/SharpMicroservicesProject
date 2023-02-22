@@ -1,5 +1,6 @@
 ﻿using System.Runtime.ConstrainedExecution;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Sharp.Shared.Services;
 using SharpCourse.Web.Handler;
 using SharpCourse.Web.Models;
 using SharpCourse.Web.Services;
@@ -11,7 +12,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.Configure<ClientSettings>(builder.Configuration.GetSection("ClientSettings"));
 builder.Services.Configure<ServiceApiSettings>(builder.Configuration.GetSection("ServiceApiSettings"));
 builder.Services.AddHttpContextAccessor();
-
+builder.Services.AddScoped<ISharedIdentityService, SharedIdentityService>();
 var serviceApiSettings = builder.Configuration.GetSection("ServiceApiSettings").Get<ServiceApiSettings>();
 
 builder.Services.AddScoped<ResourceOwnerPasswordTokenHandler>();
