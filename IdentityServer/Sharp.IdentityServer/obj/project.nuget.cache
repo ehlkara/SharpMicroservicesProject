@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "luqqq3gcCB6cZXke++3ds99TOUEXl8dhg1lY2OfKxGw1GGywnWYXNtPN7DitoAdGqt7RIXoZVQon1TKE1xWMVQ==",
+  "dgSpecHash": "+ptDMReFwoLj957qqiK1yxyKIAHCzTxEpxlUZtRDWdtdqaF5I3adasZv6bPRMpr3e8iAUx5ywgQKEFUfGWJl5w==",
   "success": true,
   "projectFilePath": "/Users/ehlkara/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/Sharp.IdentityServer.csproj",
   "expectedPackageFiles": [

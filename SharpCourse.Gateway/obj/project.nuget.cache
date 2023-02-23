@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+EAB5Jy+MGBFbm3R8CcG1SuPrB4jjSNHSO1PDPq66B7LPff/F1y8pM/v4R//7DdSVR8/XlI7YXB01vFihkD0xQ==",
+  "dgSpecHash": "fNWLx4r7HcGspQHDm5P9NCxRoGGgyQevrDgmzq7kcesBGWW35AxCgkZPgDrI0FyY0Wmb5CeMwf88vDUU6TEPiA==",
   "success": true,
   "projectFilePath": "/Users/ehlkara/SharpMicroservicesProject/SharpCourse.Gateway/SharpCourse.Gateway.csproj",
   "expectedPackageFiles": [
