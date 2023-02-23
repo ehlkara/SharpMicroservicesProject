@@ -1,8 +1,13 @@
-﻿using IdentityModel.AspNetCore.AccessTokenManagement;
+﻿using SharpCourse.Web.Models;
+using SharpCourse.Web.Services.Interfaces;
+using IdentityModel.AspNetCore.AccessTokenManagement;
 using IdentityModel.Client;
 using Microsoft.Extensions.Options;
-using SharpCourse.Web.Models;
-using SharpCourse.Web.Services.Interfaces;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net.Http;
+using System.Threading.Tasks;
 
 namespace SharpCourse.Web.Services
 {
@@ -13,8 +18,7 @@ namespace SharpCourse.Web.Services
         private readonly IClientAccessTokenCache _clientAccessTokenCache;
         private readonly HttpClient _httpClient;
 
-        public ClientCredentialTokenService(IOptions<ServiceApiSettings> serviceApiSettings,
-            IOptions<ClientSettings> clientSettings, IClientAccessTokenCache clientAccessTokenCache, HttpClient httpClient)
+        public ClientCredentialTokenService(IOptions<ServiceApiSettings> serviceApiSettings, IOptions<ClientSettings> clientSettings, IClientAccessTokenCache clientAccessTokenCache, HttpClient httpClient)
         {
             _serviceApiSettings = serviceApiSettings.Value;
             _clientSettings = clientSettings.Value;
@@ -24,9 +28,9 @@ namespace SharpCourse.Web.Services
 
         public async Task<string> GetToken()
         {
-            var currentToken = await _clientAccessTokenCache.GetAsync("WebClientToken", null);
+            var currentToken = await _clientAccessTokenCache.GetAsync("WebClientToken");
 
-            if(currentToken != null)
+            if (currentToken != null)
             {
                 return currentToken.AccessToken;
             }
@@ -51,15 +55,14 @@ namespace SharpCourse.Web.Services
 
             var newToken = await _httpClient.RequestClientCredentialsTokenAsync(clientCredentialTokenRequest);
 
-            if(newToken.IsError)
+            if (newToken.IsError)
             {
                 throw newToken.Exception;
             }
 
-            await _clientAccessTokenCache.SetAsync("WebClientToken", newToken.AccessToken, newToken.ExpiresIn, null);
+            await _clientAccessTokenCache.SetAsync("WebClientToken", newToken.AccessToken, newToken.ExpiresIn);
 
             return newToken.AccessToken;
         }
     }
 }
-

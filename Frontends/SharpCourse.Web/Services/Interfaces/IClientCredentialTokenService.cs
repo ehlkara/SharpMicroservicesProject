@@ -3,7 +3,7 @@ namespace SharpCourse.Web.Services.Interfaces
 {
 	public interface IClientCredentialTokenService
 	{
-		Task<string> GetToken();
-	}
+        Task<String> GetToken();
+    }
 }
 
