@@ -12,7 +12,7 @@
           "Microsoft.AspNetCore.OpenApi": "7.0.3",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.4",
           "Sharp.Shared": "1.0.0",
-          "StackExchange.Redis": "2.6.90",
+          "StackExchange.Redis": "2.6.96",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
         "runtime": {
@@ -1267,14 +1267,14 @@
       "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
-      "StackExchange.Redis/2.6.90": {
+      "StackExchange.Redis/2.6.96": {
         "dependencies": {
           "Pipelines.Sockets.Unofficial": "2.2.2"
         },
         "runtime": {
           "lib/net5.0/StackExchange.Redis.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.6.90.64945"
+            "fileVersion": "2.6.96.30123"
           }
         }
       },
@@ -2613,12 +2613,12 @@
       "path": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "hashPath": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
     },
-    "StackExchange.Redis/2.6.90": {
+    "StackExchange.Redis/2.6.96": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-OVmlUSvuCI4rMcSU1dI1h+U/6t2k8AL7TVD1kIrZ0eSDDrgNlKcsTlQhZU8u9ViU6F8AVOvFZnxDP69NyU/oUQ==",
-      "path": "stackexchange.redis/2.6.90",
-      "hashPath": "stackexchange.redis.2.6.90.nupkg.sha512"
+      "sha512": "sha512-JDj94bTwBZ6zA1vknEYJppRXRejTnl5u2z6cRBQ0DJ+Uy94qvn0XsQZ2M+1/VkqtxQ+LUU1h4JZWwcvVojGiQg==",
+      "path": "stackexchange.redis/2.6.96",
+      "hashPath": "stackexchange.redis.2.6.96.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/6.5.0": {
       "type": "package",
