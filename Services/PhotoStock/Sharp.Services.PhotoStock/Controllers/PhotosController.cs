@@ -28,7 +28,7 @@ namespace SharpCourse.Services.PhotoStock.Controllers
                 }
 
                 //http://www.photostock.api.com/photos/asdasd.jpg
-                var returnPath = "photos/" + photo.FileName;
+                var returnPath = photo.FileName;
 
                 PhotoDto photoDto = new() { Url = returnPath };
 
