@@ -22,6 +22,8 @@ namespace SharpCourse.Web.Models.Catalogs
         [Display(Name = "Course Category")]
         [Required]
         public string CategoryId { get; set; }
+        [Display(Name = "Course Picture")]
+        public IFormFile PhotoFormFile { get; set; }
     }
 }
 

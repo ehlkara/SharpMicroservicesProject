@@ -87,13 +87,7 @@ namespace SharpCourse.Web.Controllers
             var categories = await _catalogService.GetAllCategoryAsync();
             ViewBag.categoryList = new SelectList(categories, "Id", "Name", courseUpdateInput.Id);
 
-            // transient control
-            if(courseUpdateInput.Picture == null)
-            {
-                courseUpdateInput.Picture = "";
-            }
-
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
                 return View();
             }
