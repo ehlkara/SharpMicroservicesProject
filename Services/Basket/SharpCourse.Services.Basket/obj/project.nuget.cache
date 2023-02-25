@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2oQymiBiPuiTELmj7JwMiqXE3QnnOd2EDJMcJ3/c/sKiN6AYYXgFNuNDNt9qmOJjG5T19Si8DnCen7+ArYxvyg==",
+  "dgSpecHash": "JiD1GJTxHpxAH/btupLlDPJTVh0Cr/nEasx/h0gAoGAvTuZRRg26BX8xg75yHYVwBqx/L7C1XsasgeorVkeoAg==",
   "success": true,
   "projectFilePath": "/Users/ehlkara/SharpMicroservicesProject/Services/Basket/SharpCourse.Services.Basket/SharpCourse.Services.Basket.csproj",
   "expectedPackageFiles": [
@@ -79,7 +79,7 @@
     "/Users/ehlkara/.nuget/packages/runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
-    "/Users/ehlkara/.nuget/packages/stackexchange.redis/2.6.90/stackexchange.redis.2.6.90.nupkg.sha512",
+    "/Users/ehlkara/.nuget/packages/stackexchange.redis/2.6.96/stackexchange.redis.2.6.96.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

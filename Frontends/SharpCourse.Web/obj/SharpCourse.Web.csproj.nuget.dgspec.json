@@ -44,7 +44,7 @@
           "dependencies": {
             "IdentityModel.AspNetCore": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[4.3.0, )"
             },
             "Microsoft.IdentityModel.Protocols.OpenIdConnect": {
               "target": "Package",

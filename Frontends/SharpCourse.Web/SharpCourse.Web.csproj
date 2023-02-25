@@ -21,6 +21,7 @@
     <None Remove="Views\Courses\" />
     <None Remove="IdentityModel.AspNetCore" />
     <None Remove="IdentityModel.AspNetCore.OAuth2Introspection" />
+    <None Remove="Models\PhotoStocks\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Services\" />
@@ -31,6 +32,7 @@
     <Folder Include="Views\User\" />
     <Folder Include="Models\Catalogs\" />
     <Folder Include="Views\Courses\" />
+    <Folder Include="Models\PhotoStocks\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Shared\Sharp.Shared\Sharp.Shared.csproj">
@@ -40,6 +42,6 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.IdentityModel.Protocols.OpenIdConnect" Version="6.27.0" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0.4" />
-    <PackageReference Include="IdentityModel.AspNetCore" Version="3.0.0" />
+    <PackageReference Include="IdentityModel.AspNetCore" Version="4.3.0" />
   </ItemGroup>
 </Project>

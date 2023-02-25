@@ -1,32 +1,37 @@
-﻿<Properties StartupConfiguration="Multiple Projects" DisableUseMSBuildOnMonoInfoBar="True">
-  <MonoDevelop.Ide.ItemProperties.Services.Catalog.SharpCourse.Services.Catalog PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Services.Order.SharpCourse.Services.Order.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.IdentityServer.Sharp.IdentityServer PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.Services.FakePayment.SharpCourse.Services.FakePayment PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.Services.Basket.SharpCourse.Services.Basket PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.Services.PhotoStock.SharpCourse.Services.PhotoStock PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+﻿<Properties GitUserInfo="UsingGIT" DisableUseMSBuildOnMonoInfoBar="True" StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.ItemProperties.Services.Discount.SharpCourse.Services.Discount PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.Frontends.SharpCourse.Web PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SharpCourse.Gateway/configuration.development.json">
+  <MonoDevelop.Ide.ItemProperties.Services.Catalog.SharpCourse.Services.Catalog PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.Order.SharpCourse.Services.Order.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{782E39CF-AF19-40F2-83D7-D3753C26CBC1}" ItemName="Sharp.IdentityServer" ConfigurationId="SelfHost" />
+        <StartupItem ItemId="{85385078-0AD3-495A-A249-8D5B3CC6BF6F}" ItemName="SharpCourse.Gateway" ConfigurationId="http" />
+        <StartupItem ItemId="{CBED3C80-32CE-4D89-B76D-1441A8DC8753}" ItemName="SharpCourse.Services.Catalog" ConfigurationId="http" />
+        <StartupItem ItemId="{FD5EB26A-8C20-444E-8158-CFB10D1C39AA}" ItemName="SharpCourse.Web" ConfigurationId="http" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Frontends/SharpCourse.Web/Handler/ClientCredentialTokenHandler.cs">
     <Files>
-      <File FileName="Frontends/SharpCourse.Web/Controllers/CoursesController.cs" />
-      <File FileName="Frontends/SharpCourse.Web/Services/Interfaces/ICatalogService.cs" />
+      <File FileName="Frontends/SharpCourse.Web/Controllers/CoursesController.cs" Line="110" Column="1" />
+      <File FileName="Frontends/SharpCourse.Web/Services/Interfaces/ICatalogService.cs" Line="16" Column="27" />
       <File FileName="Frontends/SharpCourse.Web/Program.cs" />
-      <File FileName="Frontends/SharpCourse.Web/Views/Courses/Index.cshtml" />
+      <File FileName="Frontends/SharpCourse.Web/Views/Courses/Index.cshtml" Line="40" Column="30" />
       <File FileName="Frontends/SharpCourse.Web/Views/_ViewImports.cshtml" />
       <File FileName="Frontends/SharpCourse.Web/Services/Interfaces/IClientCredentialTokenService.cs" />
-      <File FileName="Frontends/SharpCourse.Web/Services/ClientCredentialTokenService.cs" />
+      <File FileName="Frontends/SharpCourse.Web/Services/ClientCredentialTokenService.cs" Line="63" Column="110" />
       <File FileName="Frontends/SharpCourse.Web/Services/Interfaces/IIdentityService.cs" />
       <File FileName="Frontends/SharpCourse.Web/Services/IdentityService.cs" />
-      <File FileName="Frontends/SharpCourse.Web/appsettings.json" />
+      <File FileName="Frontends/SharpCourse.Web/appsettings.json" Line="16" Column="41" />
       <File FileName="Frontends/SharpCourse.Web/Services/UserService.cs" />
-      <File FileName="Frontends/SharpCourse.Web/Handler/ClientCredentialTokenHandler.cs" />
-      <File FileName="Frontends/SharpCourse.Web/Views/User/Index.cshtml" />
-      <File FileName="Frontends/SharpCourse.Web/Services/CatalogService.cs" />
+      <File FileName="Frontends/SharpCourse.Web/Handler/ClientCredentialTokenHandler.cs" Line="34" Column="1" />
+      <File FileName="Frontends/SharpCourse.Web/Views/User/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Frontends/SharpCourse.Web/Services/CatalogService.cs" Line="22" Column="10" />
       <File FileName="Shared/Sharp.Shared/Dtos/Response.cs" />
-      <File FileName="SharpCourse.Gateway/appsettings.json" />
-      <File FileName="SharpCourse.Gateway/configuration.development.json" Line="11" Column="9" />
+      <File FileName="SharpCourse.Gateway/appsettings.json" Line="1" Column="1" />
+      <File FileName="SharpCourse.Gateway/configuration.development.json" />
       <File FileName="SharpCourse.Gateway/configuration.production.json" />
       <File FileName="SharpCourse.Gateway/Program.cs" />
       <File FileName="Frontends/SharpCourse.Web/Handler/ResourceOwnerPasswordTokenHandler.cs" />
@@ -36,7 +41,14 @@
       <File FileName="Frontends/SharpCourse.Web/Models/ErrorViewModel.cs" />
       <File FileName="Frontends/SharpCourse.Web/Models/ServiceApiSettings.cs" />
       <File FileName="Ports.txt" />
-      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Controllers/CoursesController.cs" />
+      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Controllers/CoursesController.cs" Line="52" Column="1" />
+      <File FileName="Frontends/SharpCourse.Web/Models/Catalogs/CourseCreateInput.cs" Line="8" Column="1" />
+      <File FileName="Frontends/SharpCourse.Web/Models/Catalogs/FeatureViewModel.cs" Line="7" Column="15" />
+      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/appsettings.json" Line="1" Column="1" />
+      <File FileName="Services/Catalog/SharpCourse.Services.Catalog/Controllers/CategoriesController.cs" Line="1" Column="1" />
+      <File FileName="Frontends/SharpCourse.Web/Views/Courses/Create.cshtml" Line="53" Column="15" />
+      <File FileName="Frontends/SharpCourse.Web/Models/Catalogs/CourseUpdateInput.cs" Line="23" Column="19" />
+      <File FileName="Frontends/SharpCourse.Web/Views/Courses/Update.cshtml" Line="20" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -46,7 +58,9 @@
               <Node name="SharpCourse.Web" expanded="True">
                 <Node name="Controllers" expanded="True" />
                 <Node name="Handler" expanded="True" />
-                <Node name="Models" expanded="True" />
+                <Node name="Models" expanded="True">
+                  <Node name="Catalogs" expanded="True" />
+                </Node>
                 <Node name="Services" expanded="True">
                   <Node name="Interfaces" expanded="True" />
                 </Node>
@@ -75,26 +89,18 @@
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Services/CatalogService.cs" relfile="Frontends/SharpCourse.Web/Services/CatalogService.cs" line="73" column="1" />
-      <Breakpoint file="/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/Controllers/CoursesController.cs" relfile="Services/Catalog/SharpCourse.Services.Catalog/Controllers/CoursesController.cs" line="44" column="1" />
-      <Breakpoint file="/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Courses/Index.cshtml" relfile="Frontends/SharpCourse.Web/Views/Courses/Index.cshtml" line="12" column="1" />
-      <Breakpoint file="/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Controllers/CoursesController.cs" relfile="Frontends/SharpCourse.Web/Controllers/CoursesController.cs" line="26" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.IdentityServer.Sharp.IdentityServer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.PhotoStock.SharpCourse.Services.PhotoStock PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.FakePayment.SharpCourse.Services.FakePayment PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Gateways.SharpCourse.Gateway PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.Services.Discount.SharpCourse.Services.Discount PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MultiItemStartupConfigurations>
-    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
-      <Items>
-        <StartupItem ItemId="{782E39CF-AF19-40F2-83D7-D3753C26CBC1}" ItemName="Sharp.IdentityServer" ConfigurationId="SelfHost" />
-        <StartupItem ItemId="{85385078-0AD3-495A-A249-8D5B3CC6BF6F}" ItemName="SharpCourse.Gateway" ConfigurationId="http" />
-        <StartupItem ItemId="{CBED3C80-32CE-4D89-B76D-1441A8DC8753}" ItemName="SharpCourse.Services.Catalog" ConfigurationId="http" />
-        <StartupItem ItemId="{FD5EB26A-8C20-444E-8158-CFB10D1C39AA}" ItemName="SharpCourse.Web" ConfigurationId="http" />
-      </Items>
-    </MultiItemSolutionRunConfiguration>
-  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
