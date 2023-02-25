@@ -1,4 +1,5 @@
 ﻿using System;
+using Sharp.Shared.Dtos;
 using SharpCourse.Web.Models.PhotoStocks;
 using SharpCourse.Web.Services.Interfaces;
 
@@ -39,12 +40,14 @@ namespace SharpCourse.Web.Services
 
             var response = await _httClient.PostAsync("photos", multipartContent);
 
-            if(!response.IsSuccessStatusCode)
+            if(response.IsSuccessStatusCode == null)
             {
                 return null;
             }
 
-            return await response.Content.ReadFromJsonAsync<PhotoViewModel>();
+            var responseSuccess = await response.Content.ReadFromJsonAsync<Response<PhotoViewModel>>();
+
+            return responseSuccess.Data;
         }
     }
 }

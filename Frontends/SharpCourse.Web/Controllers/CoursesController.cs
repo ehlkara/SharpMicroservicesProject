@@ -47,7 +47,6 @@ namespace SharpCourse.Web.Controllers
                 return View();
             }
             courseCreateInput.UserId = _sharedIdentityService.GetUserId;
-            courseCreateInput.Picture = "";
 
             await _catalogService.CreateCourseAsync(courseCreateInput);
 
