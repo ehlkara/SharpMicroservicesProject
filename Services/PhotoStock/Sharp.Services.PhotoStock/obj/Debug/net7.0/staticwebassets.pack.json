@@ -5,8 +5,24 @@
       "PackagePath": "staticwebassets/.DS_Store"
     },
     {
-      "Id": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/f123b117-5b02-4565-a35c-4cd33637a634.png",
-      "PackagePath": "staticwebassets/photos/f123b117-5b02-4565-a35c-4cd33637a634.png"
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/.DS_Store",
+      "PackagePath": "staticwebassets/photos/.DS_Store"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/052e18eb-ca6c-4dcf-84ad-78df456a02ee.png",
+      "PackagePath": "staticwebassets/photos/052e18eb-ca6c-4dcf-84ad-78df456a02ee.png"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/2afffafc-5388-4ba4-a9b9-7a87f961f34f.png",
+      "PackagePath": "staticwebassets/photos/2afffafc-5388-4ba4-a9b9-7a87f961f34f.png"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/9ac0db63-4ef9-425e-aa52-1065f198322b.jpg",
+      "PackagePath": "staticwebassets/photos/9ac0db63-4ef9-425e-aa52-1065f198322b.jpg"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/c908455a-3eef-4e52-8a74-beefec18816b.png",
+      "PackagePath": "staticwebassets/photos/c908455a-3eef-4e52-8a74-beefec18816b.png"
     },
     {
       "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Sharp.Services.PhotoStock.Microsoft.AspNetCore.StaticWebAssets.props",
