@@ -1,5 +1,6 @@
 ﻿using System;
 using Sharp.Shared.Dtos;
+using Sharp.Shared.Services;
 using SharpCourse.Web.Models.Baskets;
 using SharpCourse.Web.Services.Interfaces;
 
@@ -8,19 +9,21 @@ namespace SharpCourse.Web.Services
     public class BasketService : IBasketService
     {
         private readonly HttpClient _httpClient;
+        private readonly ISharedIdentityService _sharedIdentityService;
 
-        public BasketService(HttpClient httpClient)
+        public BasketService(HttpClient httpClient, ISharedIdentityService sharedIdentityService)
         {
             _httpClient = httpClient;
+            _sharedIdentityService = sharedIdentityService;
         }
 
         public async Task AddBasketItem(BasketItemViewModel basketItemViewModel)
         {
             var basket = await Get();
 
-            if(basket != null)
+            if (basket != null)
             {
-                if(!basket.BasketItems.Any(x=> x.CourseId == basketItemViewModel.CourseId))
+                if (!basket.BasketItems.Any(x => x.CourseId == basketItemViewModel.CourseId))
                 {
                     basket.BasketItems.Add(basketItemViewModel);
                 }
@@ -28,8 +31,10 @@ namespace SharpCourse.Web.Services
             else
             {
                 basket = new BasketViewModel();
+
                 basket.BasketItems.Add(basketItemViewModel);
             }
+
             await SaveOrUpdate(basket);
         }
 
@@ -88,7 +93,14 @@ namespace SharpCourse.Web.Services
 
         public async Task<bool> SaveOrUpdate(BasketViewModel basketViewModel)
         {
-            var response = await _httpClient.PostAsJsonAsync<BasketViewModel>("baskets", basketViewModel);
+            if(basketViewModel.DiscountCode == null)
+            {
+                basketViewModel.DiscountCode = "";
+            }
+
+            basketViewModel.UserId = _sharedIdentityService.GetUserId;
+
+            var response = await _httpClient.PostAsJsonAsync<BasketViewModel>("baskets/SaveOrUpdateBasket", basketViewModel);
 
             return response.IsSuccessStatusCode;
         }

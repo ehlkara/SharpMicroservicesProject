@@ -323,3 +323,5 @@
 /Users/ehlkara/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/obj/Release/net7.0/Sharp.IdentityServer.pdb
 /Users/ehlkara/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/obj/Release/net7.0/Sharp.IdentityServer.genruntimeconfig.cache
 /Users/ehlkara/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/obj/Release/net7.0/ref/Sharp.IdentityServer.dll
+/Users/ehlkara/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/bin/Release/net7.0/Microsoft.Extensions.Options.dll
+/Users/ehlkara/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/bin/Release/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
