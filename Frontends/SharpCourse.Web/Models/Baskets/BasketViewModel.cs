@@ -29,7 +29,7 @@ namespace SharpCourse.Web.Models.Baskets
             }
         }
 
-        public decimal TotalPrice { get => _basketItems.Sum(x => x.GetCurrentPrice * x.Quantity); }
+        public decimal TotalPrice { get => _basketItems.Sum(x => x.GetCurrentPrice); }
 
         public bool HasDiscount
         {
