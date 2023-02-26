@@ -42,6 +42,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
             "IdentityModel.AspNetCore": {
               "target": "Package",
               "version": "[4.3.0, )"

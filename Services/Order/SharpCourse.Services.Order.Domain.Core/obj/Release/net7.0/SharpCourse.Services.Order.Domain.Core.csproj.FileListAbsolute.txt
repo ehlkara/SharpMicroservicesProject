@@ -1,0 +1,12 @@
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/bin/Release/net7.0/SharpCourse.Services.Order.Domain.Core.deps.json
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/bin/Release/net7.0/SharpCourse.Services.Order.Domain.Core.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/bin/Release/net7.0/SharpCourse.Services.Order.Domain.Core.pdb
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/obj/Release/net7.0/SharpCourse.Services.Order.Domain.Core.csproj.AssemblyReference.cache
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/obj/Release/net7.0/SharpCourse.Services.Order.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/obj/Release/net7.0/SharpCourse.Services.Order.Domain.Core.AssemblyInfoInputs.cache
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/obj/Release/net7.0/SharpCourse.Services.Order.Domain.Core.AssemblyInfo.cs
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/obj/Release/net7.0/SharpCourse.Services.Order.Domain.Core.csproj.CoreCompileInputs.cache
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/obj/Release/net7.0/SharpCourse.Services.Order.Domain.Core.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/obj/Release/net7.0/refint/SharpCourse.Services.Order.Domain.Core.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/obj/Release/net7.0/SharpCourse.Services.Order.Domain.Core.pdb
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/obj/Release/net7.0/ref/SharpCourse.Services.Order.Domain.Core.dll

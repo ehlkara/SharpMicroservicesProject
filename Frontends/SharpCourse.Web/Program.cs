@@ -1,4 +1,5 @@
 ﻿using System.Runtime.ConstrainedExecution;
+using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Sharp.Shared.Services;
 using SharpCourse.Web.Extensions;
@@ -7,6 +8,7 @@ using SharpCourse.Web.Helpers;
 using SharpCourse.Web.Models;
 using SharpCourse.Web.Services;
 using SharpCourse.Web.Services.Interfaces;
+using SharpCourse.Web.Validators;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -32,7 +34,7 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
         opts.Cookie.Name = "webcookie";
     });
 
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews().AddFluentValidation(fv=>fv.RegisterValidatorsFromAssemblyContaining<CourseCreateInputValidator>());
 
 var app = builder.Build();
 
