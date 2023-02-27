@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Sharp.Shared.Services;
 using SharpCourse.Web.Models.Baskets;
+using SharpCourse.Web.Models.Discounts;
 using SharpCourse.Web.Services.Interfaces;
 
 namespace SharpCourse.Web.Controllers
@@ -42,6 +43,22 @@ namespace SharpCourse.Web.Controllers
         public async Task<IActionResult> RemoveBasketItem(string courseId)
         {
             await _basketService.RemoveBasketItem(courseId);
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        public async Task<IActionResult> ApplyDiscount(DiscountApplyInput discountApplyInput)
+        {
+            var discountStatus = await _basketService.ApplyDiscount(discountApplyInput.Code);
+
+            TempData["discountStatus"] = discountStatus;
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        public async Task<IActionResult> CancelApplyDiscount()
+        {
+            await _basketService.CancelApplyDiscount();
 
             return RedirectToAction(nameof(Index));
         }
