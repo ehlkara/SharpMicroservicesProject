@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mHf6rNoRshthqx5pd5t/pNG1PZxbhG2+DVUVq8En2mE=",
+  "Hash": "Y4jevdGUmM2O1qL4B8lbUqBKL7Uf7IKtN/5AJOpo1M0=",
   "Source": "Sharp.Services.PhotoStock",
   "BasePath": "_content/Sharp.Services.PhotoStock",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/photos/052e18eb-ca6c-4dcf-84ad-78df456a02ee.png"
+    },
+    {
+      "Identity": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/0f22fbee-84df-4eb5-a976-880cd159eee6.png",
+      "SourceId": "Sharp.Services.PhotoStock",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
+      "BasePath": "_content/Sharp.Services.PhotoStock",
+      "RelativePath": "photos/0f22fbee-84df-4eb5-a976-880cd159eee6.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/photos/0f22fbee-84df-4eb5-a976-880cd159eee6.png"
     },
     {
       "Identity": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/2afffafc-5388-4ba4-a9b9-7a87f961f34f.png",

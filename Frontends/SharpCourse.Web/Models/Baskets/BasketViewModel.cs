@@ -1,4 +1,6 @@
 ﻿using System;
+using NuGet.ContentModel;
+
 namespace SharpCourse.Web.Models.Baskets
 {
 	public class BasketViewModel
@@ -43,6 +45,18 @@ namespace SharpCourse.Web.Models.Baskets
         public bool HasDiscount
         {
             get => !string.IsNullOrEmpty(DiscountCode) && DiscountRate.HasValue;
+        }
+
+        public void CancelDiscount()
+        {
+            DiscountCode = null;
+            DiscountRate = null;
+        }
+
+        public void ApplyDiscount(string code, int rate)
+        {
+            DiscountRate = rate;
+            DiscountCode = code;
         }
     }
 }
