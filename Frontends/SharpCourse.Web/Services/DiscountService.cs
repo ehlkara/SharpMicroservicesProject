@@ -1,4 +1,5 @@
 ﻿using System;
+using Sharp.Shared.Dtos;
 using SharpCourse.Web.Models.Discounts;
 using SharpCourse.Web.Services.Interfaces;
 
@@ -6,13 +7,24 @@ namespace SharpCourse.Web.Services
 {
 	public class DiscountService : IDiscountService
 	{
-		public DiscountService()
-		{
-		}
+        private readonly HttpClient _httpClient;
 
-        public Task<DiscountViewModel> GetDiscount(string discountCode)
+        public DiscountService(HttpClient httpClient)
         {
-            throw new NotImplementedException();
+            _httpClient = httpClient;
+        }
+
+        public async Task<DiscountViewModel> GetDiscount(string discountCode)
+        {
+            //[controller]/[action]/{code}
+            var response = await _httpClient.GetAsync($"discounts/GetByCode/{discountCode}");
+
+            if (!response.IsSuccessStatusCode)
+                return null;
+
+            var discount = await response.Content.ReadFromJsonAsync<Response<DiscountViewModel>>();
+
+            return discount.Data;
         }
     }
 }
