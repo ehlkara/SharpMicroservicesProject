@@ -29,6 +29,7 @@
     <None Remove="Validators\" />
     <None Remove="Models\Discounts\" />
     <None Remove="Models\FakePayments\" />
+    <None Remove="Models\Orders\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Services\" />
@@ -47,6 +48,7 @@
     <Folder Include="Validators\" />
     <Folder Include="Models\Discounts\" />
     <Folder Include="Models\FakePayments\" />
+    <Folder Include="Models\Orders\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Shared\Sharp.Shared\Sharp.Shared.csproj">
