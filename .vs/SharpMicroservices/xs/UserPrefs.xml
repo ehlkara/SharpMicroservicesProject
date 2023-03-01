@@ -1,18 +1,21 @@
-﻿<Properties StartupConfiguration="Multiple Projects" DisableUseMSBuildOnMonoInfoBar="True" GitUserInfo="UsingGIT">
+﻿<Properties GitUserInfo="UsingGIT" DisableUseMSBuildOnMonoInfoBar="True" StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.ItemProperties.Gateways.SharpCourse.Gateway PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.Basket.SharpCourse.Services.Basket PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.Order.SharpCourse.Services.Order.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.FakePayment.SharpCourse.Services.FakePayment PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.IdentityServer.Sharp.IdentityServer PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Frontends/SharpCourse.Web/Validators/CourseCreateInputValidator.cs">
+  <MonoDevelop.Ide.ItemProperties.Services.PhotoStock.SharpCourse.Services.PhotoStock PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Frontends/SharpCourse.Web/Models/Baskets/BasketItemViewModel.cs">
     <Files>
-      <File FileName="Frontends/SharpCourse.Web/Views/Home/Detail.cshtml" Line="21" Column="67" />
-      <File FileName="Frontends/SharpCourse.Web/Views/Home/Index.cshtml" Line="26" Column="86" />
-      <File FileName="Frontends/SharpCourse.Web/Controllers/BasketController.cs" Line="13" Column="16" />
-      <File FileName="Frontends/SharpCourse.Web/Controllers/HomeController.cs" Line="1" Column="1" />
-      <File FileName="Frontends/SharpCourse.Web/Controllers/UserController.cs" Line="1" Column="1" />
-      <File FileName="Frontends/SharpCourse.Web/Controllers/CoursesController.cs" Line="1" Column="1" />
-      <File FileName="Frontends/SharpCourse.Web/Controllers/AuthController.cs" Line="13" Column="34" />
-      <File FileName="Frontends/SharpCourse.Web/Validators/CourseCreateInput.cs" Line="12" Column="42" />
-      <File FileName="Frontends/SharpCourse.Web/Validators/CourseUpdateInputValidator.cs" Line="7" Column="75" />
-      <File FileName="Frontends/SharpCourse.Web/Program.cs" Line="37" Column="119" />
-      <File FileName="Frontends/SharpCourse.Web/Models/Catalogs/CourseCreateInput.cs" Line="19" Column="43" />
+      <File FileName="Frontends/SharpCourse.Web/Views/Basket/Index.cshtml" Line="59" Column="36" />
+      <File FileName="Frontends/SharpCourse.Web/Controllers/BasketController.cs" Line="55" Column="56" />
+      <File FileName="Frontends/SharpCourse.Web/appsettings.json" Line="15" Column="18" />
+      <File FileName="Frontends/SharpCourse.Web/Models/Baskets/BasketViewModel.cs" Line="20" Column="30" />
+      <File FileName="Frontends/SharpCourse.Web/Services/BasketService.cs" Line="35" Column="38" />
+      <File FileName="Services/Basket/SharpCourse.Services.Basket/Dtos/BasketDto.cs" Line="8" Column="47" />
+      <File FileName="Frontends/SharpCourse.Web/Views/Shared/_Layout.cshtml" Line="33" Column="35" />
+      <File FileName="Frontends/SharpCourse.Web/Models/Baskets/BasketItemViewModel.cs" Line="4" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,8 +23,16 @@
           <Node name="SharpMicroservices" expanded="True">
             <Node name="Frontends" expanded="True">
               <Node name="SharpCourse.Web" expanded="True">
-                <Node name="Validators" expanded="True">
-                  <Node name="CourseCreateInputValidator.cs" selected="True" />
+                <Node name="Controllers" expanded="True" />
+                <Node name="Models" expanded="True">
+                  <Node name="Baskets" expanded="True">
+                    <Node name="BasketItemViewModel.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Services" expanded="True" />
+                <Node name="Views" expanded="True">
+                  <Node name="Basket" expanded="True" />
+                  <Node name="Shared" expanded="True" />
                 </Node>
               </Node>
             </Node>
@@ -30,14 +41,13 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Services.Discount.SharpCourse.Services.Discount PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.Services.Basket.SharpCourse.Services.Basket PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.Services.PhotoStock.SharpCourse.Services.PhotoStock PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.Frontends.SharpCourse.Web PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.Services.Order.SharpCourse.Services.Order.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Services.Discount.SharpCourse.Services.Discount PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.Services.Catalog.SharpCourse.Services.Catalog PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Frontends.SharpCourse.Web PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MultiItemStartupConfigurations>
     <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
       <Items>
@@ -45,14 +55,10 @@
         <StartupItem ItemId="{85385078-0AD3-495A-A249-8D5B3CC6BF6F}" ItemName="SharpCourse.Gateway" ConfigurationId="http" />
         <StartupItem ItemId="{AE22BEC3-3865-4CAA-A4DC-FB2035C4751D}" ItemName="SharpCourse.Services.Basket" ConfigurationId="http" />
         <StartupItem ItemId="{CBED3C80-32CE-4D89-B76D-1441A8DC8753}" ItemName="SharpCourse.Services.Catalog" ConfigurationId="http" />
+        <StartupItem ItemId="{15352E98-A8A2-4579-90D8-EF6C2D3F0503}" ItemName="SharpCourse.Services.Discount" ConfigurationId="http" />
         <StartupItem ItemId="{35CB3865-4212-4517-A06C-6AC22FB3E8A0}" ItemName="SharpCourse.Services.PhotoStock" ConfigurationId="http" />
         <StartupItem ItemId="{FD5EB26A-8C20-444E-8158-CFB10D1C39AA}" ItemName="SharpCourse.Web" ConfigurationId="http" />
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
-  <MonoDevelop.Ide.ItemProperties.Gateways.SharpCourse.Gateway PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Services.FakePayment.SharpCourse.Services.FakePayment PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>

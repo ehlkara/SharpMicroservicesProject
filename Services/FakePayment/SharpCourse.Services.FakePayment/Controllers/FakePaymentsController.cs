@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Sharp.Shared.ControllerBases;
 using Sharp.Shared.Dtos;
+using SharpCourse.Services.FakePayment.Models;
 
 namespace SharpCourse.Services.FakePayment.Controllers
 {
@@ -13,7 +14,7 @@ namespace SharpCourse.Services.FakePayment.Controllers
     public class FakePaymentsController : CustomBaseController
     {
         [HttpPost]
-        public IActionResult ReceivePayment()
+        public IActionResult ReceivePayment(PaymentDto paymentDto)
         {
             return CreateActionResultInstance<NoContent>(Response<NoContent>.Success(200));
         }
