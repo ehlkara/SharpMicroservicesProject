@@ -1,0 +1,51 @@
+@{
+    ViewData["Title"] = "CheckoutHistory";
+
+}
+@model List<OrderViewModel>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Payment history</h5>
+                @if (Model.Any())
+                    {
+                        <table class="table table-striped table-bordered">
+                            <tr>
+                                <th>Order(payment) no</th>
+                                <th>Purchase date</th>
+                                <th>Details</th>
+                            </tr>
+                            @foreach (var items in Model)
+                                {
+                                    <tr>
+                                        <td>@items.Id</td>
+                                        <td>@items.CreatedTime.ToShortDateString()</td>
+                                        <td>
+                                        <table class="table table-striped">
+                                            <tr>
+                                                <th>Course Name</th>
+                                                <th>Course Price</th>
+                                            </tr>
+                                            @foreach(var item in items.OrderItems)
+                                                {
+                                                    <tr>
+                                                        <td>@item.ProductName</td>
+                                                        <td>@item.Price</td>
+                                                    </tr>
+                                                }
+                                        </table>
+                                        </td>
+                                    </tr>
+                                }
+                        </table>
+                    }
+                    else
+{
+            <div class="alert alert-info">No purchased courses were found.</div>
+}
+            </div>
+        </div>
+    </div>
+</div>
