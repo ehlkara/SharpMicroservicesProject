@@ -10933,11 +10933,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/SharpCourse.Services.Catalog.csproj",
+      "projectUniqueName": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/SharpCourse.Services.Catalog.csproj",
       "projectName": "SharpCourse.Services.Catalog",
-      "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/SharpCourse.Services.Catalog.csproj",
+      "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/SharpCourse.Services.Catalog.csproj",
       "packagesPath": "/Users/ehlkara/.nuget/packages/",
-      "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/obj/",
+      "outputPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
@@ -10952,8 +10952,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
-              "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj"
+            "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
+              "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj"
             }
           }
         }

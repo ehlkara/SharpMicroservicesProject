@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ehlkara/SharpMicroservicesProject/Services/Basket/SharpCourse.Services.Basket/SharpCourse.Services.Basket.csproj": {}
+    "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Basket/SharpCourse.Services.Basket/SharpCourse.Services.Basket.csproj": {}
   },
   "projects": {
-    "/Users/ehlkara/SharpMicroservicesProject/Services/Basket/SharpCourse.Services.Basket/SharpCourse.Services.Basket.csproj": {
+    "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Basket/SharpCourse.Services.Basket/SharpCourse.Services.Basket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Services/Basket/SharpCourse.Services.Basket/SharpCourse.Services.Basket.csproj",
+        "projectUniqueName": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Basket/SharpCourse.Services.Basket/SharpCourse.Services.Basket.csproj",
         "projectName": "SharpCourse.Services.Basket",
-        "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Basket/SharpCourse.Services.Basket/SharpCourse.Services.Basket.csproj",
+        "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Basket/SharpCourse.Services.Basket/SharpCourse.Services.Basket.csproj",
         "packagesPath": "/Users/ehlkara/.nuget/packages/",
-        "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Basket/SharpCourse.Services.Basket/obj/",
+        "outputPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Basket/SharpCourse.Services.Basket/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
-                "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj"
+              "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
+                "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj"
               }
             }
           }
@@ -42,6 +42,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[7.0.3, )"
@@ -86,14 +94,14 @@
         }
       }
     },
-    "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
+    "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj",
+        "projectUniqueName": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj",
         "projectName": "Sharp.Shared",
-        "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj",
+        "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj",
         "packagesPath": "/Users/ehlkara/.nuget/packages/",
-        "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/obj/",
+        "outputPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ehlkara/.nuget/NuGet/NuGet.Config"

@@ -9797,11 +9797,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/SharpCourse.Services.PhotoStock.csproj",
+      "projectUniqueName": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/SharpCourse.Services.PhotoStock.csproj",
       "projectName": "Sharp.Services.PhotoStock",
-      "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/SharpCourse.Services.PhotoStock.csproj",
+      "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/SharpCourse.Services.PhotoStock.csproj",
       "packagesPath": "/Users/ehlkara/.nuget/packages/",
-      "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/obj/",
+      "outputPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
@@ -9816,8 +9816,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
-              "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj"
+            "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
+              "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj"
             }
           }
         }

@@ -9,73 +9,73 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SharpCourse.Web
 build_property.RootNamespace = SharpCourse.Web
-build_property.ProjectDir = /Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/
+build_property.ProjectDir = /Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Frontends/SharpCourse.Web/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web
+build_property.MSBuildProjectDirectory = /Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Frontends/SharpCourse.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Auth/SignIn.cshtml]
+[/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Auth/SignIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aC9TaWduSW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Basket/Index.cshtml]
+[/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Basket/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFza2V0L0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Courses/Create.cshtml]
+[/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Courses/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291cnNlcy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Courses/Index.cshtml]
+[/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Courses/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291cnNlcy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Courses/Update.cshtml]
+[/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Courses/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291cnNlcy9VcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Home/Detail.cshtml]
+[/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Home/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9EZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Home/Index.cshtml]
+[/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Order/Checkout.cshtml]
+[/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Order/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvQ2hlY2tvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Order/CheckoutHistory.cshtml]
+[/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Order/CheckoutHistory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvQ2hlY2tvdXRIaXN0b3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Order/SuccessfulCheckout.cshtml]
+[/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Order/SuccessfulCheckout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvU3VjY2Vzc2Z1bENoZWNrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Shared/Error.cshtml]
+[/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/User/Index.cshtml]
+[/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/_ViewImports.cshtml]
+[/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/_ViewStart.cshtml]
+[/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Shared/_Layout.cshtml]
+[/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qdfczpc12p

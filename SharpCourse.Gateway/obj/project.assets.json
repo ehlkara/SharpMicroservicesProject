@@ -780,11 +780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/SharpCourse.Gateway/SharpCourse.Gateway.csproj",
+      "projectUniqueName": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/SharpCourse.Gateway/SharpCourse.Gateway.csproj",
       "projectName": "SharpCourse.Gateway",
-      "projectPath": "/Users/ehlkara/SharpMicroservicesProject/SharpCourse.Gateway/SharpCourse.Gateway.csproj",
+      "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/SharpCourse.Gateway/SharpCourse.Gateway.csproj",
       "packagesPath": "/Users/ehlkara/.nuget/packages/",
-      "outputPath": "/Users/ehlkara/SharpMicroservicesProject/SharpCourse.Gateway/obj/",
+      "outputPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/SharpCourse.Gateway/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ehlkara/.nuget/NuGet/NuGet.Config"

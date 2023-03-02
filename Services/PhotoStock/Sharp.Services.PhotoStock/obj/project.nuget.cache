@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hMFfMfm+wmH2A/1Tk1HU8onAdDWrvZwFfA6GNSF/H2pC6jYKeDBbfhAl+IdOwcrJxEcBbFstglwgK1uOx5TIhA==",
+  "dgSpecHash": "+3pb88Pt3dH9MaIuam8DxVShR7YJEh5Zu0RUNZ2k8HPwy9/sBezhlH1XnuT4S1ZTdcusosk0XTGsTmZKTS1t1Q==",
   "success": true,
-  "projectFilePath": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/SharpCourse.Services.PhotoStock.csproj",
+  "projectFilePath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/SharpCourse.Services.PhotoStock.csproj",
   "expectedPackageFiles": [
     "/Users/ehlkara/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.3/microsoft.aspnetcore.authentication.jwtbearer.7.0.3.nupkg.sha512",

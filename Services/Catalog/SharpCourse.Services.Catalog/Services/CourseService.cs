@@ -105,7 +105,7 @@ namespace SharpCourse.Services.Catalog.Services
             }
 
             await _publishEndPoint.Publish<CourseNameChangedEvent>(new CourseNameChangedEvent
-            { CourseId = updateCourse.Id, UpdatedName = courseUpdateDto.Name });
+            { UserId = updateCourse.UserId,CourseId = updateCourse.Id, UpdatedName = courseUpdateDto.Name });
 
             return Response<NoContent>.Success(204);
         }

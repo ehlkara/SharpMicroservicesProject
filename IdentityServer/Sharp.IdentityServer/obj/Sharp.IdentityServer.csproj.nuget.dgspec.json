@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ehlkara/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/Sharp.IdentityServer.csproj": {}
+    "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/Sharp.IdentityServer.csproj": {}
   },
   "projects": {
-    "/Users/ehlkara/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/Sharp.IdentityServer.csproj": {
+    "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/Sharp.IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/Sharp.IdentityServer.csproj",
+        "projectUniqueName": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/Sharp.IdentityServer.csproj",
         "projectName": "Sharp.IdentityServer",
-        "projectPath": "/Users/ehlkara/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/Sharp.IdentityServer.csproj",
+        "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/Sharp.IdentityServer.csproj",
         "packagesPath": "/Users/ehlkara/.nuget/packages/",
-        "outputPath": "/Users/ehlkara/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/obj/",
+        "outputPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
-                "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj"
+              "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
+                "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj"
               }
             }
           }
@@ -108,14 +108,14 @@
         }
       }
     },
-    "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
+    "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj",
+        "projectUniqueName": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj",
         "projectName": "Sharp.Shared",
-        "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj",
+        "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj",
         "packagesPath": "/Users/ehlkara/.nuget/packages/",
-        "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/obj/",
+        "outputPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ehlkara/.nuget/NuGet/NuGet.Config"

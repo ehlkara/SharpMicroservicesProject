@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+ptDMReFwoLj957qqiK1yxyKIAHCzTxEpxlUZtRDWdtdqaF5I3adasZv6bPRMpr3e8iAUx5ywgQKEFUfGWJl5w==",
+  "dgSpecHash": "Va78AEEFkLOVR34ig2ec/nuoebO/JcQnFV9TTTnSzX9oY06Tn4AY+AuGviDZE7/qoo6ybOvJQxLOF0K8J9zHiw==",
   "success": true,
-  "projectFilePath": "/Users/ehlkara/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/Sharp.IdentityServer.csproj",
+  "projectFilePath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/Sharp.IdentityServer.csproj",
   "expectedPackageFiles": [
     "/Users/ehlkara/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

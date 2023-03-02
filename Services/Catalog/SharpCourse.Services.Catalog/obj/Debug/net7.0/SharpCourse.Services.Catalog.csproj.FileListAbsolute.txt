@@ -807,3 +807,16 @@ C:/Users/ArentechDev/Documents/GitHub/SharpMicroservicesProject/Services/Catalog
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/MassTransit.ExtensionsDependencyInjectionIntegration.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/MassTransit.RabbitMqTransport.dll
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/MassTransit.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/MassTransit.Abstractions.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/MassTransit.AspNetCoreIntegration.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/MassTransit.ExtensionsDependencyInjectionIntegration.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/MassTransit.RabbitMqTransport.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
