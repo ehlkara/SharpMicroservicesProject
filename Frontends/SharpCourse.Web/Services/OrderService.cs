@@ -122,6 +122,8 @@ namespace SharpCourse.Web.Services
                 return new OrderSuspendViewModel() { Error = "It doesn't get payemnt.", IsSuccessful = false };
             }
 
+            await _basketService.Delete();
+
             return new OrderSuspendViewModel() { IsSuccessful = true };
         }
     }

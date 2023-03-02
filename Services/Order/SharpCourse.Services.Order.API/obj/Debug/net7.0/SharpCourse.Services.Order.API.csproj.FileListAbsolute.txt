@@ -381,3 +381,9 @@ C:/Users/ArentechDev/Documents/GitHub/SharpMicroservicesProject/Services/Order/S
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/obj/Debug/net7.0/SharpCourse.Services.Order.API.pdb
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/obj/Debug/net7.0/SharpCourse.Services.Order.API.genruntimeconfig.cache
 /Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/obj/Debug/net7.0/ref/SharpCourse.Services.Order.API.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/MassTransit.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/MassTransit.Abstractions.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/MassTransit.AspNetCoreIntegration.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/MassTransit.ExtensionsDependencyInjectionIntegration.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/MassTransit.RabbitMqTransport.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/bin/Debug/net7.0/RabbitMQ.Client.dll
