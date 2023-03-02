@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/SharpCourse.Services.FakePayment.props" />
-</Project>
