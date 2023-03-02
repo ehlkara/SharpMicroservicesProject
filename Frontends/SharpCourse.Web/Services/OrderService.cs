@@ -56,7 +56,7 @@ namespace SharpCourse.Web.Services
             };
             basket.BasketItems.ForEach(x =>
             {
-                var orderItem = new OrderItemViewModel { ProductId = x.CourseId, ProductName = x.CourseName, Price = x.Price, PictureUrl = ""};
+                var orderItem = new OrderItemViewModel { ProductId = x.CourseId, ProductName = x.CourseName, Price = x.GetCurrentPrice, PictureUrl = ""};
                 orderCreateInput.OrderItems.Add(orderItem);
             });
 
@@ -68,7 +68,13 @@ namespace SharpCourse.Web.Services
                 return new OrderCreatedViewModel() { Error = "Order doesn't created", IsSuccessful = false };
             }
 
-            return await response.Content.ReadFromJsonAsync<OrderCreatedViewModel>();
+            var orderCreatedViewModel = await response.Content.ReadFromJsonAsync<Response<OrderCreatedViewModel>>();
+
+            orderCreatedViewModel.Data.IsSuccessful = true;
+
+            await _basketService.Delete();
+
+            return orderCreatedViewModel.Data;
         }
 
         public async Task<List<OrderViewModel>> GetOrders()

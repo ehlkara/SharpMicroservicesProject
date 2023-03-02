@@ -6,6 +6,9 @@
 /Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/bin/Debug/net7.0/SharpCourse.Web.runtimeconfig.json
 /Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/bin/Debug/net7.0/SharpCourse.Web.dll
 /Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/bin/Debug/net7.0/SharpCourse.Web.pdb
+/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/bin/Debug/net7.0/FluentValidation.dll
+/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
 /Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/bin/Debug/net7.0/Humanizer.dll
 /Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/bin/Debug/net7.0/IdentityModel.dll
 /Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/bin/Debug/net7.0/IdentityModel.AspNetCore.dll
@@ -256,6 +259,3 @@
 /Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/obj/Debug/net7.0/SharpCourse.Web.pdb
 /Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/obj/Debug/net7.0/SharpCourse.Web.genruntimeconfig.cache
 /Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/obj/Debug/net7.0/ref/SharpCourse.Web.dll
-/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/bin/Debug/net7.0/FluentValidation.dll
-/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
-/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
