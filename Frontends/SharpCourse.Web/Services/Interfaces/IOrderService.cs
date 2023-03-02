@@ -13,12 +13,12 @@ namespace SharpCourse.Web.Services.Interfaces
 		Task<OrderCreatedViewModel> CreateOrder(CheckoutInfoInput checkoutInfoInput);
 
 
-		/// <summary>
-		/// Async communication- Order ınfo sent to rabbitmq
-		/// </summary>
-		/// <param name="checkoutInfoInput"></param>
-		/// <returns></returns>
-		Task SuspendOrder(CheckoutInfoInput checkoutInfoInput);
+        /// <summary>
+        /// Async communication- Order ınfo sent to rabbitmq
+        /// </summary>
+        /// <param name="checkoutInfoInput"></param>
+        /// <returns></returns>
+        Task<OrderSuspendViewModel> SuspendOrder(CheckoutInfoInput checkoutInfoInput);
 
 		Task<List<OrderViewModel>> GetOrders();
 	}

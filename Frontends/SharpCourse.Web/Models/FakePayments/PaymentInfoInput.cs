@@ -1,4 +1,6 @@
 ﻿using System;
+using SharpCourse.Web.Models.Orders;
+
 namespace SharpCourse.Web.Models.FakePayments
 {
 	public class PaymentInfoInput
@@ -8,6 +10,7 @@ namespace SharpCourse.Web.Models.FakePayments
 		public string Expiration { get; set; }
 		public string CVV { get; set; }
 		public decimal TotalPrice { get; set; }
+		public OrderCreateInput Order { get; set; }
 	}
 }
 
