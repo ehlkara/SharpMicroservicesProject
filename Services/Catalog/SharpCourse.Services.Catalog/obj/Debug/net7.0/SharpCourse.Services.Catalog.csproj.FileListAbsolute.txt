@@ -801,3 +801,9 @@ C:/Users/ArentechDev/Documents/GitHub/SharpMicroservicesProject/Services/Catalog
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/obj/Debug/net7.0/SharpCourse.Services.Catalog.pdb
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/obj/Debug/net7.0/SharpCourse.Services.Catalog.genruntimeconfig.cache
 /Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/obj/Debug/net7.0/ref/SharpCourse.Services.Catalog.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/MassTransit.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/MassTransit.Abstractions.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/MassTransit.AspNetCoreIntegration.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/MassTransit.ExtensionsDependencyInjectionIntegration.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/MassTransit.RabbitMqTransport.dll
+/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/bin/Debug/net7.0/RabbitMQ.Client.dll

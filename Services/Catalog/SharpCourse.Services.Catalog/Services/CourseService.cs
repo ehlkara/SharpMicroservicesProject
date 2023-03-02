@@ -1,10 +1,12 @@
 ﻿using System;
 using AutoMapper;
+using Mass = MassTransit;
 using MongoDB.Driver;
 using Sharp.Shared.Dtos;
 using SharpCourse.Services.Catalog.Dtos;
 using SharpCourse.Services.Catalog.Models;
 using SharpCourse.Services.Catalog.Settings;
+using Sharp.Shared.Messages;
 
 namespace SharpCourse.Services.Catalog.Services
 {
@@ -13,8 +15,9 @@ namespace SharpCourse.Services.Catalog.Services
         private readonly IMongoCollection<Course> _courseCollection;
         private readonly IMongoCollection<Category> _categoryCollection;
         private readonly IMapper _mapper;
+        private readonly Mass.IPublishEndpoint _publishEndPoint;
 
-        public CourseService(IMapper mapper,IDatabaseSettings databaseSettings)
+        public CourseService(IMapper mapper, IDatabaseSettings databaseSettings, Mass.IPublishEndpoint publishEndPoint)
         {
             var client = new MongoClient(databaseSettings.ConnectionString);
 
@@ -24,6 +27,7 @@ namespace SharpCourse.Services.Catalog.Services
             _categoryCollection = database.GetCollection<Category>(databaseSettings.CategoryCollectionName);
 
             _mapper = mapper;
+            _publishEndPoint = publishEndPoint;
         }
 
         public async Task<Response<List<CourseDto>>> GetAllAsync()
@@ -99,6 +103,9 @@ namespace SharpCourse.Services.Catalog.Services
             {
                 return Response<NoContent>.Fail("Course not found.", 404);
             }
+
+            await _publishEndPoint.Publish<CourseNameChangedEvent>(new CourseNameChangedEvent
+            { CourseId = updateCourse.Id, UpdatedName = courseUpdateDto.Name });
 
             return Response<NoContent>.Success(204);
         }
