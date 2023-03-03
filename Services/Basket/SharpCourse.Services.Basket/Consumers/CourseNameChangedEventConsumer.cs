@@ -17,6 +17,15 @@ namespace SharpCourse.Services.Basket.Consumers
         public async Task Consume(ConsumeContext<CourseNameChangedEvent> context)
         {
             var basket = await _basketService.GetBasket(context.Message.UserId);
+
+            var basketItems = basket.Data.basketItems.Where(x => x.CourseId == context.Message.CourseId).ToList();
+
+            basketItems.ForEach(x =>
+            {
+                x.CourseName = context.Message.UpdatedName;
+            });
+
+            await _basketService.SaveOrUpdate(basket.Data);
         }
     }
 }

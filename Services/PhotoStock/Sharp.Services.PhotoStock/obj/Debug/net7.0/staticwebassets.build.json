@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "V/SUSFfTxhksfLFKl1031wfehuaG1uoRO0hJIC7JV5g=",
+  "Hash": "Y4jevdGUmM2O1qL4B8lbUqBKL7Uf7IKtN/5AJOpo1M0=",
   "Source": "Sharp.Services.PhotoStock",
   "BasePath": "_content/Sharp.Services.PhotoStock",
   "Mode": "Default",
@@ -10,17 +10,51 @@
     {
       "Name": "Sharp.Services.PhotoStock/wwwroot",
       "Source": "Sharp.Services.PhotoStock",
-      "ContentRoot": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
+      "ContentRoot": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
       "BasePath": "_content/Sharp.Services.PhotoStock",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/052e18eb-ca6c-4dcf-84ad-78df456a02ee.png",
+      "Identity": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/.DS_Store",
       "SourceId": "Sharp.Services.PhotoStock",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
+      "ContentRoot": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
+      "BasePath": "_content/Sharp.Services.PhotoStock",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
+      "Identity": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/.DS_Store",
+      "SourceId": "Sharp.Services.PhotoStock",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
+      "BasePath": "_content/Sharp.Services.PhotoStock",
+      "RelativePath": "photos/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/photos/.DS_Store"
+    },
+    {
+      "Identity": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/052e18eb-ca6c-4dcf-84ad-78df456a02ee.png",
+      "SourceId": "Sharp.Services.PhotoStock",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
       "BasePath": "_content/Sharp.Services.PhotoStock",
       "RelativePath": "photos/052e18eb-ca6c-4dcf-84ad-78df456a02ee.png",
       "AssetKind": "All",
@@ -34,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/photos/052e18eb-ca6c-4dcf-84ad-78df456a02ee.png"
     },
     {
-      "Identity": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/0f22fbee-84df-4eb5-a976-880cd159eee6.png",
+      "Identity": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/0f22fbee-84df-4eb5-a976-880cd159eee6.png",
       "SourceId": "Sharp.Services.PhotoStock",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
+      "ContentRoot": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
       "BasePath": "_content/Sharp.Services.PhotoStock",
       "RelativePath": "photos/0f22fbee-84df-4eb5-a976-880cd159eee6.png",
       "AssetKind": "All",
@@ -51,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/photos/0f22fbee-84df-4eb5-a976-880cd159eee6.png"
     },
     {
-      "Identity": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/2afffafc-5388-4ba4-a9b9-7a87f961f34f.png",
+      "Identity": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/2afffafc-5388-4ba4-a9b9-7a87f961f34f.png",
       "SourceId": "Sharp.Services.PhotoStock",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
+      "ContentRoot": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
       "BasePath": "_content/Sharp.Services.PhotoStock",
       "RelativePath": "photos/2afffafc-5388-4ba4-a9b9-7a87f961f34f.png",
       "AssetKind": "All",
@@ -68,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/photos/2afffafc-5388-4ba4-a9b9-7a87f961f34f.png"
     },
     {
-      "Identity": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/9ac0db63-4ef9-425e-aa52-1065f198322b.jpg",
+      "Identity": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/9ac0db63-4ef9-425e-aa52-1065f198322b.jpg",
       "SourceId": "Sharp.Services.PhotoStock",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
+      "ContentRoot": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
       "BasePath": "_content/Sharp.Services.PhotoStock",
       "RelativePath": "photos/9ac0db63-4ef9-425e-aa52-1065f198322b.jpg",
       "AssetKind": "All",
@@ -85,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/photos/9ac0db63-4ef9-425e-aa52-1065f198322b.jpg"
     },
     {
-      "Identity": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/c908455a-3eef-4e52-8a74-beefec18816b.png",
+      "Identity": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/photos/c908455a-3eef-4e52-8a74-beefec18816b.png",
       "SourceId": "Sharp.Services.PhotoStock",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
+      "ContentRoot": "/Users/ehlkara/SharpMicroservicesProject/Services/PhotoStock/Sharp.Services.PhotoStock/wwwroot/",
       "BasePath": "_content/Sharp.Services.PhotoStock",
       "RelativePath": "photos/c908455a-3eef-4e52-8a74-beefec18816b.png",
       "AssetKind": "All",
