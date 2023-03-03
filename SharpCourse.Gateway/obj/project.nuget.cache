@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "SJ4TKGOMkKCFL22ipg1JYacRlG3PlQ2hPz2Gwm37wU8e5kLzp6FTMK6I1UljbYAq8/yJR5pb6MT0OoSa5wwRbQ==",
+  "dgSpecHash": "pTWK57clcEflmjF19odczEXW5ggR3MqZ6elQVubGSaXzBQAU30lc9uKH/3CdxZcXtQkX/HnY0AppflVwv+1wsg==",
   "success": true,
-  "projectFilePath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/SharpCourse.Gateway/SharpCourse.Gateway.csproj",
+  "projectFilePath": "/Users/ehlkara/SharpMicroservicesProject/SharpCourse.Gateway/SharpCourse.Gateway.csproj",
   "expectedPackageFiles": [
     "/Users/ehlkara/.nuget/packages/fluentvalidation/10.3.6/fluentvalidation.10.3.6.nupkg.sha512",
+    "/Users/ehlkara/.nuget/packages/identitymodel/6.0.0/identitymodel.6.0.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.3/microsoft.aspnetcore.authentication.jwtbearer.7.0.3.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.jsonpatch/6.0.1/microsoft.aspnetcore.jsonpatch.6.0.1.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.middlewareanalysis/6.0.1/microsoft.aspnetcore.middlewareanalysis.6.0.1.nupkg.sha512",

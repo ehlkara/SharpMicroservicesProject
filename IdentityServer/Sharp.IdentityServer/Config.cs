@@ -76,7 +76,7 @@ namespace Sharp.IdentityServer
                     ClientName = "Token Exchange Client",
                     ClientId = "TokenExchangeClient",
                     ClientSecrets = {new Secret("secret".Sha256())},
-                    AllowedGrantTypes = new []{"urn:ietf:params:out:grant-type:token-exchange" },
+                    AllowedGrantTypes = new []{"urn:ietf:params:oauth:grant-type:token-exchange" },
                     AllowedScopes = { "payment_fullpermission", "discount_fullpermission", IdentityServerConstants.StandardScopes.OpenId }
                 }
             };
