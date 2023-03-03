@@ -57,6 +57,7 @@ namespace Sharp.IdentityServer
                 .AddAspNetIdentity<ApplicationUser>();
 
             builder.AddResourceOwnerValidator<IdentityResourceOwnerValidator>();
+            builder.AddExtensionGrantValidator<TokenExchangeExtensionGrantValidator>();
 
             // not recommended for production - you need to store your key material somewhere secure
             builder.AddDeveloperSigningCredential();
