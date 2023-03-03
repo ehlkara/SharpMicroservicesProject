@@ -88,3 +88,4 @@
 /Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/SharpCourse.Gateway/obj/Debug/net7.0/SharpCourse.Gateway.pdb
 /Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/SharpCourse.Gateway/obj/Debug/net7.0/SharpCourse.Gateway.genruntimeconfig.cache
 /Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/SharpCourse.Gateway/obj/Debug/net7.0/ref/SharpCourse.Gateway.dll
+/Users/ehlkara/SharpMicroservicesProject/SharpCourse.Gateway/bin/Debug/net7.0/IdentityModel.dll

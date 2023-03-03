@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sC3LY2LSGfUTf2kSAGCzA9e4jw7j6gb5GlXZlfVoCnZjuApRSbeFuRHkg8pwifZSbCVEFNeDSyyZJ4JajxNB4w==",
+  "dgSpecHash": "O/M/7DarL+1it0rzkSWeaPfITLBJyBE2cAg+WCk/2uq9Grm7W+n8I7Z4OvlJB3HMZOD72CTevRDQQaMWdQKBXw==",
   "success": true,
-  "projectFilePath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/SharpCourse.Services.Discount.csproj",
+  "projectFilePath": "/Users/ehlkara/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/SharpCourse.Services.Discount.csproj",
   "expectedPackageFiles": [
     "/Users/ehlkara/.nuget/packages/dapper/2.0.78/dapper.2.0.78.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/dapper.contrib/2.0.78/dapper.contrib.2.0.78.nupkg.sha512",

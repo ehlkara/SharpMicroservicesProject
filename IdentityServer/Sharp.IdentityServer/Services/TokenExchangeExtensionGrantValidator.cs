@@ -23,21 +23,26 @@ namespace Sharp.IdentityServer.Services
             var token = context.Request.Raw.Get("subject_token");
 
             if (string.IsNullOrEmpty(token))
-                context.Result = new GrantValidationResult(IdentityServer4.Models.TokenRequestErrors.InvalidRequest, "token missing"); return;
+            {
+                context.Result = new GrantValidationResult(IdentityServer4.Models.TokenRequestErrors.InvalidRequest, "token missing");
+                return;
+            }
 
             var tokenValidateResult = await _tokenValidator.ValidateAccessTokenAsync(token);
 
             if (tokenValidateResult.IsError)
             {
                 context.Result = new GrantValidationResult(IdentityServer4.Models.TokenRequestErrors.InvalidGrant, "token invalid");
+
                 return;
             }
 
             var subjectClaim = tokenValidateResult.Claims.FirstOrDefault(c => c.Type == "sub");
 
-            if(subjectClaim == null)
+            if (subjectClaim == null)
             {
                 context.Result = new GrantValidationResult(IdentityServer4.Models.TokenRequestErrors.InvalidGrant, "token must contain sub value");
+
                 return;
             }
 

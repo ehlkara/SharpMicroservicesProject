@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/SharpCourse.Services.Order.API.csproj": {}
+    "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/SharpCourse.Services.Order.API.csproj": {}
   },
   "projects": {
-    "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/SharpCourse.Services.Order.API.csproj": {
+    "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/SharpCourse.Services.Order.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/SharpCourse.Services.Order.API.csproj",
+        "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/SharpCourse.Services.Order.API.csproj",
         "projectName": "SharpCourse.Services.Order.API",
-        "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/SharpCourse.Services.Order.API.csproj",
+        "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/SharpCourse.Services.Order.API.csproj",
         "packagesPath": "/Users/ehlkara/.nuget/packages/",
-        "outputPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/obj/",
+        "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/SharpCourse.Services.Order.Application.csproj": {
-                "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/SharpCourse.Services.Order.Application.csproj"
+              "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/SharpCourse.Services.Order.Application.csproj": {
+                "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/SharpCourse.Services.Order.Application.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj": {
+    "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj",
+        "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj",
         "projectName": "SharpCourse.Services.Order.Domain.Core",
-        "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj",
+        "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj",
         "packagesPath": "/Users/ehlkara/.nuget/packages/",
-        "outputPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/obj/",
+        "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
@@ -141,14 +141,14 @@
         }
       }
     },
-    "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj": {
+    "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj",
+        "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj",
         "projectName": "SharpCourse.Services.Order.Domain",
-        "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj",
+        "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj",
         "packagesPath": "/Users/ehlkara/.nuget/packages/",
-        "outputPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/obj/",
+        "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
@@ -163,8 +163,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj": {
-                "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj"
+              "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj": {
+                "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj"
               }
             }
           }
@@ -198,14 +198,14 @@
         }
       }
     },
-    "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Infrastructure/SharpCourse.Services.Order.Infrastructure.csproj": {
+    "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Infrastructure/SharpCourse.Services.Order.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Infrastructure/SharpCourse.Services.Order.Infrastructure.csproj",
+        "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Infrastructure/SharpCourse.Services.Order.Infrastructure.csproj",
         "projectName": "SharpCourse.Services.Order.Infrastructure",
-        "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Infrastructure/SharpCourse.Services.Order.Infrastructure.csproj",
+        "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Infrastructure/SharpCourse.Services.Order.Infrastructure.csproj",
         "packagesPath": "/Users/ehlkara/.nuget/packages/",
-        "outputPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Infrastructure/obj/",
+        "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
@@ -220,8 +220,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj": {
-                "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj"
+              "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj": {
+                "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj"
               }
             }
           }
@@ -271,14 +271,14 @@
         }
       }
     },
-    "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/SharpCourse.Services.Order.Application.csproj": {
+    "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/SharpCourse.Services.Order.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/SharpCourse.Services.Order.Application.csproj",
+        "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/SharpCourse.Services.Order.Application.csproj",
         "projectName": "SharpCourse.Services.Order.Application",
-        "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/SharpCourse.Services.Order.Application.csproj",
+        "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/SharpCourse.Services.Order.Application.csproj",
         "packagesPath": "/Users/ehlkara/.nuget/packages/",
-        "outputPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/obj/",
+        "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Services.Order.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
@@ -293,14 +293,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj": {
-                "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj"
+              "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj": {
+                "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain/SharpCourse.Services.Order.Domain.csproj"
               },
-              "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Infrastructure/SharpCourse.Services.Order.Infrastructure.csproj": {
-                "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Infrastructure/SharpCourse.Services.Order.Infrastructure.csproj"
+              "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Infrastructure/SharpCourse.Services.Order.Infrastructure.csproj": {
+                "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Infrastructure/SharpCourse.Services.Order.Infrastructure.csproj"
               },
-              "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
-                "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj"
+              "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
+                "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj"
               }
             }
           }
@@ -352,14 +352,14 @@
         }
       }
     },
-    "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
+    "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj",
+        "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj",
         "projectName": "Sharp.Shared",
-        "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj",
+        "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/Sharp.Shared.csproj",
         "packagesPath": "/Users/ehlkara/.nuget/packages/",
-        "outputPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Shared/Sharp.Shared/obj/",
+        "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Shared/Sharp.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ehlkara/.nuget/NuGet/NuGet.Config"

@@ -4,7 +4,7 @@ using SharpCourse.Gateway.DelegateHandlers;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddHttpClient<TokenExchangeDelegateHandler>();
+builder.Services.AddHttpClient<TokenExhangeDelegateHandler>();
 
 builder.Services.AddAuthentication().AddJwtBearer("GatewayAuthenticationScheme", options =>
 {
@@ -17,7 +17,7 @@ builder.Services.AddAuthentication().AddJwtBearer("GatewayAuthenticationScheme",
 IConfiguration configuration = new ConfigurationBuilder()
                             .AddJsonFile($"configuration.{builder.Environment.EnvironmentName.ToLower()}.json", true, true)
                             .Build();
-builder.Services.AddOcelot(configuration).AddDelegatingHandler<TokenExchangeDelegateHandler>();
+builder.Services.AddOcelot(configuration).AddDelegatingHandler<TokenExhangeDelegateHandler>();
 
 var app = builder.Build();
 

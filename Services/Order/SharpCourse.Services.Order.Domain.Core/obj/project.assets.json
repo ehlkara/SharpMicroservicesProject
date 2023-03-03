@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj",
+      "projectUniqueName": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj",
       "projectName": "SharpCourse.Services.Order.Domain.Core",
-      "projectPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj",
+      "projectPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/SharpCourse.Services.Order.Domain.Core.csproj",
       "packagesPath": "/Users/ehlkara/.nuget/packages/",
-      "outputPath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/obj/",
+      "outputPath": "/Users/ehlkara/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.Domain.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ehlkara/.nuget/NuGet/NuGet.Config"

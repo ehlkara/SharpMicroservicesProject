@@ -3,14 +3,14 @@ using IdentityModel.Client;
 
 namespace SharpCourse.Gateway.DelegateHandlers
 {
-	public class TokenExchangeDelegateHandler : DelegatingHandler
-	{
+    public class TokenExhangeDelegateHandler : DelegatingHandler
+    {
         private readonly HttpClient _httpClient;
         private readonly IConfiguration _configuration;
 
         private string _accessToken;
 
-        public TokenExchangeDelegateHandler(HttpClient httpClient, IConfiguration configuration)
+        public TokenExhangeDelegateHandler(HttpClient httpClient, IConfiguration configuration)
         {
             _httpClient = httpClient;
             _configuration = configuration;
@@ -19,7 +19,9 @@ namespace SharpCourse.Gateway.DelegateHandlers
         private async Task<string> GetToken(string requestToken)
         {
             if (!string.IsNullOrEmpty(_accessToken))
+            {
                 return _accessToken;
+            }
 
             var disco = await _httpClient.GetDiscoveryDocumentAsync(new DiscoveryDocumentRequest
             {
@@ -36,7 +38,7 @@ namespace SharpCourse.Gateway.DelegateHandlers
             {
                 Address = disco.TokenEndpoint,
                 ClientId = _configuration["ClientId"],
-                ClientSecret = _configuration["CelintSecret"],
+                ClientSecret = _configuration["ClientSecret"],
                 GrantType = _configuration["TokenGrantType"],
                 SubjectToken = requestToken,
                 SubjectTokenType = "urn:ietf:params:oauth:token-type:access-token",
@@ -46,7 +48,9 @@ namespace SharpCourse.Gateway.DelegateHandlers
             var tokenResponse = await _httpClient.RequestTokenExchangeTokenAsync(tokenExchangeTokenRequest);
 
             if (tokenResponse.IsError)
+            {
                 throw tokenResponse.Exception;
+            }
 
             _accessToken = tokenResponse.AccessToken;
 
