@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/obj/Debug/net7.0/project.razor.json",
-  "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/SharpCourse.Services.Catalog.csproj",
+  "SerializedFilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/obj/Debug/net7.0/project.razor.json",
+  "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/SharpCourse.Web.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "7.0",
@@ -18642,7 +18642,88 @@
     ],
     "CSharpLanguageVersion": 1100
   },
-  "RootNamespace": "SharpCourse.Services.Catalog",
-  "Documents": [],
+  "RootNamespace": "SharpCourse.Web",
+  "Documents": [
+    {
+      "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Order/Checkout.cshtml",
+      "TargetPath": "Views\\Order\\Checkout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Order/SuccessfulCheckout.cshtml",
+      "TargetPath": "Views\\Order\\SuccessfulCheckout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/User/Index.cshtml",
+      "TargetPath": "Views\\User\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Basket/Index.cshtml",
+      "TargetPath": "Views\\Basket\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Home/Detail.cshtml",
+      "TargetPath": "Views\\Home\\Detail.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Order/CheckoutHistory.cshtml",
+      "TargetPath": "Views\\Order\\CheckoutHistory.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Courses/Update.cshtml",
+      "TargetPath": "Views\\Courses\\Update.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Courses/Create.cshtml",
+      "TargetPath": "Views\\Courses\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Courses/Index.cshtml",
+      "TargetPath": "Views\\Courses\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Auth/SignIn.cshtml",
+      "TargetPath": "Views\\Auth\\SignIn.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Frontends/SharpCourse.Web/Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.3"
 }

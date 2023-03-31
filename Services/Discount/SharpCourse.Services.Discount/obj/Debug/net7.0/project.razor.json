@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/obj/Debug/net7.0/project.razor.json",
-  "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Services/Catalog/SharpCourse.Services.Catalog/SharpCourse.Services.Catalog.csproj",
+  "SerializedFilePath": "/Users/ehlkara/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/obj/Debug/net7.0/project.razor.json",
+  "FilePath": "/Users/ehlkara/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/SharpCourse.Services.Discount.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "7.0",
@@ -18642,7 +18642,7 @@
     ],
     "CSharpLanguageVersion": 1100
   },
-  "RootNamespace": "SharpCourse.Services.Catalog",
+  "RootNamespace": "SharpCourse.Services.Discount",
   "Documents": [],
   "SerializationFormat": "0.3"
 }
