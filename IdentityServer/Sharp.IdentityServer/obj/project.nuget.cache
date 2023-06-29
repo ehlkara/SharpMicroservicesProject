@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3KH/wtVsgHqjSw5IAoY+x1jxhjKgJsNvuihdZ8hVmhWMUHPKP0Uzvel8KqPhJYO+Aiyjzt9NdmzQGKCmTSahWw==",
+  "dgSpecHash": "t3aTlAOpQ6c84HChIivevvfG6cfQm8rybcfZZW4sqGZ/mmo7UJG1Eui6e7LuLXwjMthxfmVO1RTGlfnoiJMZMg==",
   "success": true,
   "projectFilePath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/IdentityServer/Sharp.IdentityServer/Sharp.IdentityServer.csproj",
   "expectedPackageFiles": [

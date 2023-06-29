@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qc9WZd6UDFToCHhaIQiB/oyJrtcniR8R+oP59memVDqwuy8Mu7W9F2pQ7L0AKo7QYo06riOIyjwlEbMyuZ/FAw==",
+  "dgSpecHash": "Dwp6hriBD8w2zePJFZDPFVWxI3n8BSHjv/YyVAHHrDPwu/gNGrDqWdAQvN0o56Cv2YfRyskppFJ0eHuSQBcPEg==",
   "success": true,
   "projectFilePath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Discount/SharpCourse.Services.Discount/SharpCourse.Services.Discount.csproj",
   "expectedPackageFiles": [

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jIBdhUbKOB+iL1XiLqzTC6UHZWawAwZLqRLKaWVgwjWIvC+mq4+LQrXfzuq4bkP0VHrWMnr9l4285+A4+XIgQQ==",
+  "dgSpecHash": "6bRaVgGPolISvtb633jJN9MX6Xite0oJ8eNSxw6mSSqNMumcK73/MijEjSA3Jo+FgX62nG1aUAIcCsJ1Ukcilg==",
   "success": true,
   "projectFilePath": "/Users/ehlkara/Documents/GitHub/SharpMicroservicesProject/Services/Order/SharpCourse.Services.Order.API/SharpCourse.Services.Order.API.csproj",
   "expectedPackageFiles": [
